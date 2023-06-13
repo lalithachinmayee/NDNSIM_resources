@@ -1,0 +1,2745 @@
+# any empty lines and lines starting with '#' symbol is ignored
+
+# The file should contain exactly two sections: router and link, each starting with the corresponding keyword
+
+# router section defines topology nodes and their relative positions (e.g., to use in visualizer)
+router
+
+# each line in this section represents one router and should have the following data
+# node  comment     yPos    xPos
+Node0	NA	0	0															
+Node1	NA	0	0															
+Node2	NA	0	0															
+Node3	NA	0	0															
+Node4	NA	0	0															
+Node5	NA	0	0															
+Node6	NA	0	0															
+Node7	NA	0	0															
+Node8	NA	0	0															
+Node9	NA	0	0															
+Node10	NA	0	0															
+Node11	NA	0	0															
+Node12	NA	0	0															
+Node13	NA	0	0															
+Node14	NA	0	0															
+Node15	NA	0	0															
+Node16	NA	0	0															
+Node17	NA	0	0															
+Node18	NA	0	0															
+Node19	NA	0	0															
+Node20	NA	0	0															
+Node21	NA	0	0															
+Node22	NA	0	0															
+Node23	NA	0	0															
+Node24	NA	0	0															
+Node25	NA	0	0															
+Node26	NA	0	0															
+Node27	NA	0	0															
+Node28	NA	0	0															
+Node29	NA	0	0															
+Node30	NA	0	0															
+Node31	NA	0	0															
+Node32	NA	0	0															
+Node33	NA	0	0															
+Node34	NA	0	0															
+Node35	NA	0	0															
+Node36	NA	0	0															
+Node37	NA	0	0															
+Node38	NA	0	0															
+Node39	NA	0	0															
+Node40	NA	0	0															
+Node41	NA	0	0															
+Node42	NA	0	0															
+Node43	NA	0	0															
+Node44	NA	0	0															
+Node45	NA	0	0															
+Node46	NA	0	0															
+Node47	NA	0	0															
+Node48	NA	0	0															
+Node49	NA	0	0															
+Node50	NA	0	0															
+Node51	NA	0	0															
+Node52	NA	0	0															
+Node53	NA	0	0															
+Node54	NA	0	0															
+Node55	NA	0	0															
+Node56	NA	0	0															
+Node57	NA	0	0															
+Node58	NA	0	0															
+Node59	NA	0	0															
+Node60	NA	0	0															
+Node61	NA	0	0															
+Node62	NA	0	0															
+Node63	NA	0	0															
+Node64	NA	0	0															
+Node65	NA	0	0															
+Node66	NA	0	0															
+Node67	NA	0	0															
+Node68	NA	0	0															
+Node69	NA	0	0															
+Node70	NA	0	0															
+Node71	NA	0	0															
+Node72	NA	0	0															
+Node73	NA	0	0															
+Node74	NA	0	0															
+Node75	NA	0	0															
+Node76	NA	0	0															
+Node77	NA	0	0															
+Node78	NA	0	0															
+Node79	NA	0	0															
+Node80	NA	0	0															
+Node81	NA	0	0															
+Node82	NA	0	0															
+Node83	NA	0	0															
+Node84	NA	0	0															
+Node85	NA	0	0															
+Node86	NA	0	0															
+Node87	NA	0	0															
+Node88	NA	0	0															
+Node89	NA	0	0															
+Node90	NA	0	0															
+Node91	NA	0	0															
+Node92	NA	0	0															
+Node93	NA	0	0															
+Node94	NA	0	0															
+Node95	NA	0	0															
+Node96	NA	0	0															
+Node97	NA	0	0															
+Node98	NA	0	0															
+Node99	NA	0	0															
+Node100	NA	0	0															
+Node101	NA	0	0															
+Node102	NA	0	0															
+Node103	NA	0	0															
+Node104	NA	0	0															
+Node105	NA	0	0															
+Node106	NA	0	0															
+Node107	NA	0	0															
+Node108	NA	0	0															
+Node109	NA	0	0															
+Node110	NA	0	0															
+Node111	NA	0	0															
+Node112	NA	0	0															
+Node113	NA	0	0															
+Node114	NA	0	0															
+Node115	NA	0	0															
+Node116	NA	0	0															
+Node117	NA	0	0															
+Node118	NA	0	0															
+Node119	NA	0	0															
+Node120	NA	0	0															
+Node121	NA	0	0															
+Node122	NA	0	0															
+Node123	NA	0	0															
+Node124	NA	0	0															
+Node125	NA	0	0															
+Node126	NA	0	0															
+Node127	NA	0	0															
+Node128	NA	0	0															
+Node129	NA	0	0															
+Node130	NA	0	0															
+Node131	NA	0	0															
+Node132	NA	0	0															
+Node133	NA	0	0															
+Node134	NA	0	0															
+Node135	NA	0	0															
+Node136	NA	0	0															
+Node137	NA	0	0															
+Node138	NA	0	0															
+Node139	NA	0	0															
+Node140	NA	0	0															
+Node141	NA	0	0															
+Node142	NA	0	0															
+Node143	NA	0	0															
+Node144	NA	0	0															
+Node145	NA	0	0															
+Node146	NA	0	0															
+Node147	NA	0	0															
+Node148	NA	0	0															
+Node149	NA	0	0															
+Node150	NA	0	0															
+Node151	NA	0	0															
+Node152	NA	0	0															
+Node153	NA	0	0															
+Node154	NA	0	0															
+Node155	NA	0	0															
+Node156	NA	0	0															
+Node157	NA	0	0															
+Node158	NA	0	0															
+Node159	NA	0	0															
+Node160	NA	0	0															
+Node161	NA	0	0															
+Node162	NA	0	0															
+Node163	NA	0	0															
+Node164	NA	0	0															
+Node165	NA	0	0															
+Node166	NA	0	0															
+Node167	NA	0	0															
+Node168	NA	0	0															
+Node169	NA	0	0															
+Node170	NA	0	0															
+Node171	NA	0	0															
+Node172	NA	0	0															
+Node173	NA	0	0															
+Node174	NA	0	0															
+Node175	NA	0	0															
+Node176	NA	0	0															
+Node177	NA	0	0															
+Node178	NA	0	0															
+Node179	NA	0	0															
+Node180	NA	0	0															
+Node181	NA	0	0															
+Node182	NA	0	0															
+Node183	NA	0	0															
+Node184	NA	0	0															
+Node185	NA	0	0															
+Node186	NA	0	0															
+Node187	NA	0	0															
+Node188	NA	0	0															
+Node189	NA	0	0															
+Node190	NA	0	0															
+Node191	NA	0	0															
+Node192	NA	0	0															
+Node193	NA	0	0															
+Node194	NA	0	0															
+Node195	NA	0	0															
+Node196	NA	0	0															
+Node197	NA	0	0															
+Node198	NA	0	0															
+Node199	NA	0	0															
+Node200	NA	0	0															
+Node201	NA	0	0															
+Node202	NA	0	0															
+Node203	NA	0	0															
+Node204	NA	0	0															
+Node205	NA	0	0															
+Node206	NA	0	0															
+Node207	NA	0	0															
+Node208	NA	0	0															
+Node209	NA	0	0															
+Node210	NA	0	0															
+Node211	NA	0	0															
+Node212	NA	0	0															
+Node213	NA	0	0															
+Node214	NA	0	0															
+Node215	NA	0	0															
+Node216	NA	0	0															
+Node217	NA	0	0															
+Node218	NA	0	0															
+Node219	NA	0	0															
+Node220	NA	0	0															
+Node221	NA	0	0															
+Node222	NA	0	0															
+Node223	NA	0	0															
+Node224	NA	0	0															
+Node225	NA	0	0															
+Node226	NA	0	0															
+Node227	NA	0	0															
+Node228	NA	0	0															
+Node229	NA	0	0															
+Node230	NA	0	0															
+Node231	NA	0	0															
+Node232	NA	0	0															
+Node233	NA	0	0															
+Node234	NA	0	0															
+Node235	NA	0	0															
+Node236	NA	0	0															
+Node237	NA	0	0															
+Node238	NA	0	0															
+Node239	NA	0	0															
+Node240	NA	0	0															
+Node241	NA	0	0															
+Node242	NA	0	0															
+Node243	NA	0	0															
+Node244	NA	0	0															
+Node245	NA	0	0															
+Node246	NA	0	0															
+Node247	NA	0	0															
+Node248	NA	0	0															
+Node249	NA	0	0															
+Node250	NA	0	0															
+Node251	NA	0	0															
+Node252	NA	0	0															
+Node253	NA	0	0															
+Node254	NA	0	0															
+Node255	NA	0	0															
+Node256	NA	0	0															
+Node257	NA	0	0															
+Node258	NA	0	0															
+Node259	NA	0	0															
+Node260	NA	0	0															
+Node261	NA	0	0															
+Node262	NA	0	0															
+Node263	NA	0	0															
+Node264	NA	0	0															
+Node265	NA	0	0															
+Node266	NA	0	0															
+Node267	NA	0	0															
+Node268	NA	0	0															
+Node269	NA	0	0															
+Node270	NA	0	0															
+Node271	NA	0	0															
+Node272	NA	0	0															
+Node273	NA	0	0															
+Node274	NA	0	0															
+Node275	NA	0	0															
+Node276	NA	0	0															
+Node277	NA	0	0															
+Node278	NA	0	0															
+Node279	NA	0	0															
+Node280	NA	0	0															
+Node281	NA	0	0															
+Node282	NA	0	0															
+Node283	NA	0	0															
+Node284	NA	0	0															
+Node285	NA	0	0															
+Node286	NA	0	0															
+Node287	NA	0	0															
+Node288	NA	0	0															
+Node289	NA	0	0															
+Node290	NA	0	0															
+Node291	NA	0	0															
+Node292	NA	0	0															
+Node293	NA	0	0															
+Node294	NA	0	0															
+Node295	NA	0	0															
+Node296	NA	0	0															
+Node297	NA	0	0															
+Node298	NA	0	0															
+Node299	NA	0	0															
+Node300	NA	0	0															
+Node301	NA	0	0															
+Node302	NA	0	0															
+Node303	NA	0	0															
+Node304	NA	0	0															
+Node305	NA	0	0															
+Node306	NA	0	0															
+Node307	NA	0	0															
+Node308	NA	0	0															
+Node309	NA	0	0															
+Node310	NA	0	0															
+Node311	NA	0	0															
+Node312	NA	0	0															
+Node313	NA	0	0															
+Node314	NA	0	0															
+Node315	NA	0	0															
+Node316	NA	0	0															
+Node317	NA	0	0															
+Node318	NA	0	0															
+Node319	NA	0	0															
+Node320	NA	0	0															
+Node321	NA	0	0															
+Node322	NA	0	0															
+Node323	NA	0	0															
+Node324	NA	0	0															
+Node325	NA	0	0															
+Node326	NA	0	0															
+Node327	NA	0	0															
+Node328	NA	0	0															
+Node329	NA	0	0															
+Node330	NA	0	0															
+Node331	NA	0	0															
+Node332	NA	0	0															
+Node333	NA	0	0															
+Node334	NA	0	0															
+Node335	NA	0	0															
+Node336	NA	0	0															
+Node337	NA	0	0															
+Node338	NA	0	0															
+Node339	NA	0	0															
+Node340	NA	0	0															
+Node341	NA	0	0															
+Node342	NA	0	0															
+Node343	NA	0	0															
+Node344	NA	0	0															
+Node345	NA	0	0															
+Node346	NA	0	0															
+Node347	NA	0	0															
+Node348	NA	0	0															
+Node349	NA	0	0															
+Node350	NA	0	0															
+Node351	NA	0	0															
+Node352	NA	0	0															
+Node353	NA	0	0															
+Node354	NA	0	0															
+Node355	NA	0	0															
+Node356	NA	0	0															
+Node357	NA	0	0															
+Node358	NA	0	0															
+Node359	NA	0	0															
+Node360	NA	0	0															
+Node361	NA	0	0															
+Node362	NA	0	0															
+Node363	NA	0	0															
+Node364	NA	0	0															
+Node365	NA	0	0															
+Node366	NA	0	0															
+Node367	NA	0	0															
+Node368	NA	0	0															
+Node369	NA	0	0															
+Node370	NA	0	0															
+Node371	NA	0	0															
+Node372	NA	0	0															
+Node373	NA	0	0															
+Node374	NA	0	0															
+Node375	NA	0	0															
+Node376	NA	0	0															
+Node377	NA	0	0															
+Node378	NA	0	0															
+Node379	NA	0	0															
+Node380	NA	0	0															
+Node381	NA	0	0															
+Node382	NA	0	0															
+Node383	NA	0	0															
+Node384	NA	0	0															
+Node385	NA	0	0															
+Node386	NA	0	0															
+Node387	NA	0	0															
+Node388	NA	0	0															
+Node389	NA	0	0															
+Node390	NA	0	0															
+Node391	NA	0	0															
+Node392	NA	0	0															
+Node393	NA	0	0															
+Node394	NA	0	0															
+Node395	NA	0	0															
+Node396	NA	0	0															
+Node397	NA	0	0															
+Node398	NA	0	0															
+Node399	NA	0	0															
+Node400	NA	0	0															
+Node401	NA	0	0															
+Node402	NA	0	0															
+Node403	NA	0	0															
+Node404	NA	0	0															
+Node405	NA	0	0															
+Node406	NA	0	0															
+Node407	NA	0	0															
+Node408	NA	0	0															
+Node409	NA	0	0															
+Node410	NA	0	0															
+Node411	NA	0	0															
+Node412	NA	0	0															
+Node413	NA	0	0															
+Node414	NA	0	0															
+Node415	NA	0	0															
+Node416	NA	0	0															
+Node417	NA	0	0															
+Node418	NA	0	0															
+Node419	NA	0	0															
+Node420	NA	0	0															
+Node421	NA	0	0															
+Node422	NA	0	0															
+Node423	NA	0	0															
+Node424	NA	0	0															
+Node425	NA	0	0															
+Node426	NA	0	0															
+Node427	NA	0	0															
+Node428	NA	0	0															
+Node429	NA	0	0															
+Node430	NA	0	0															
+Node431	NA	0	0															
+Node432	NA	0	0															
+Node433	NA	0	0															
+Node434	NA	0	0															
+Node435	NA	0	0															
+Node436	NA	0	0															
+Node437	NA	0	0															
+Node438	NA	0	0															
+Node439	NA	0	0															
+Node440	NA	0	0															
+Node441	NA	0	0															
+Node442	NA	0	0															
+Node443	NA	0	0															
+Node444	NA	0	0															
+Node445	NA	0	0															
+Node446	NA	0	0															
+Node447	NA	0	0															
+Node448	NA	0	0															
+Node449	NA	0	0															
+Node450	NA	0	0															
+Node451	NA	0	0															
+Node452	NA	0	0															
+Node453	NA	0	0															
+Node454	NA	0	0															
+Node455	NA	0	0															
+Node456	NA	0	0															
+Node457	NA	0	0															
+Node458	NA	0	0															
+Node459	NA	0	0															
+Node460	NA	0	0															
+Node461	NA	0	0															
+Node462	NA	0	0															
+Node463	NA	0	0															
+Node464	NA	0	0															
+Node465	NA	0	0															
+Node466	NA	0	0															
+Node467	NA	0	0															
+Node468	NA	0	0															
+Node469	NA	0	0															
+Node470	NA	0	0															
+Node471	NA	0	0															
+Node472	NA	0	0															
+Node473	NA	0	0															
+Node474	NA	0	0															
+Node475	NA	0	0															
+Node476	NA	0	0															
+Node477	NA	0	0															
+Node478	NA	0	0															
+Node479	NA	0	0															
+Node480	NA	0	0															
+Node481	NA	0	0															
+Node482	NA	0	0															
+Node483	NA	0	0															
+Node484	NA	0	0															
+Node485	NA	0	0															
+Node486	NA	0	0															
+Node487	NA	0	0															
+Node488	NA	0	0															
+Node489	NA	0	0															
+Node490	NA	0	0															
+Node491	NA	0	0															
+Node492	NA	0	0															
+Node493	NA	0	0															
+Node494	NA	0	0															
+Node495	NA	0	0															
+Node496	NA	0	0															
+Node497	NA	0	0															
+Node498	NA	0	0															
+Node499	NA	0	0															
+Node500	NA	0	0															
+Node501	NA	0	0															
+Node502	NA	0	0															
+Node503	NA	0	0															
+Node504	NA	0	0															
+Node505	NA	0	0															
+Node506	NA	0	0															
+Node507	NA	0	0															
+Node508	NA	0	0															
+Node509	NA	0	0															
+Node510	NA	0	0															
+Node511	NA	0	0															
+Node512	NA	0	0															
+Node513	NA	0	0															
+Node514	NA	0	0															
+Node515	NA	0	0															
+Node516	NA	0	0															
+Node517	NA	0	0															
+Node518	NA	0	0															
+Node519	NA	0	0															
+Node520	NA	0	0															
+Node521	NA	0	0															
+Node522	NA	0	0															
+Node523	NA	0	0															
+Node524	NA	0	0															
+Node525	NA	0	0															
+Node526	NA	0	0															
+Node527	NA	0	0															
+Node528	NA	0	0															
+Node529	NA	0	0															
+Node530	NA	0	0															
+Node531	NA	0	0															
+Node532	NA	0	0															
+Node533	NA	0	0															
+Node534	NA	0	0															
+Node535	NA	0	0															
+Node536	NA	0	0															
+Node537	NA	0	0															
+Node538	NA	0	0															
+Node539	NA	0	0															
+Node540	NA	0	0															
+Node541	NA	0	0															
+Node542	NA	0	0															
+Node543	NA	0	0															
+Node544	NA	0	0															
+Node545	NA	0	0															
+Node546	NA	0	0															
+Node547	NA	0	0															
+Node548	NA	0	0															
+Node549	NA	0	0															
+Node550	NA	0	0															
+Node551	NA	0	0															
+Node552	NA	0	0															
+Node553	NA	0	0															
+Node554	NA	0	0															
+Node555	NA	0	0															
+Node556	NA	0	0															
+Node557	NA	0	0															
+Node558	NA	0	0															
+Node559	NA	0	0															
+Node560	NA	0	0															
+Node561	NA	0	0															
+Node562	NA	0	0															
+Node563	NA	0	0															
+Node564	NA	0	0															
+Node565	NA	0	0															
+Node566	NA	0	0															
+Node567	NA	0	0															
+Node568	NA	0	0															
+Node569	NA	0	0															
+Node570	NA	0	0															
+Node571	NA	0	0															
+Node572	NA	0	0															
+Node573	NA	0	0															
+Node574	NA	0	0															
+Node575	NA	0	0															
+Node576	NA	0	0															
+Node577	NA	0	0															
+Node578	NA	0	0															
+Node579	NA	0	0															
+Node580	NA	0	0															
+Node581	NA	0	0															
+Node582	NA	0	0															
+Node583	NA	0	0															
+Node584	NA	0	0															
+Node585	NA	0	0															
+Node586	NA	0	0															
+Node587	NA	0	0															
+Node588	NA	0	0															
+Node589	NA	0	0															
+Node590	NA	0	0															
+Node591	NA	0	0															
+Node592	NA	0	0															
+Node593	NA	0	0															
+Node594	NA	0	0															
+Node595	NA	0	0															
+Node596	NA	0	0															
+Node597	NA	0	0															
+Node598	NA	0	0															
+Node599	NA	0	0															
+Node600	NA	0	0															
+Node601	NA	0	0															
+Node602	NA	0	0															
+Node603	NA	0	0															
+Node604	NA	0	0															
+Node605	NA	0	0															
+Node606	NA	0	0															
+Node607	NA	0	0															
+Node608	NA	0	0															
+Node609	NA	0	0															
+Node610	NA	0	0															
+Node611	NA	0	0															
+Node612	NA	0	0															
+Node613	NA	0	0															
+Node614	NA	0	0															
+Node615	NA	0	0															
+Node616	NA	0	0															
+Node617	NA	0	0															
+Node618	NA	0	0															
+Node619	NA	0	0															
+Node620	NA	0	0															
+Node621	NA	0	0															
+Node622	NA	0	0
+Node623	NA	0	0															
+Node624	NA	0	0															
+# link section defines point-to-point links between nodes and characteristics of these links
+
+link
+
+# Each line should be in the following format (only first two are required, the rest can be omitted)
+# srcNode   dstNode     bandwidth   metric  delay   queue
+# bandwidth: link bandwidth
+# metric: routing metric
+# delay:  link delay
+# queue:  MaxPackets for transmission queue on the link (both directions)
+Node327	Node220	2670300bps	37	38431us	76													
+Node329	Node221	1822385bps	54	69023us	52													
+Node329	Node222	1880565bps	53	14931us	54													
+Node329	Node225	2265170bps	44	32639us	65													
+Node1	Node2	56386655bps	1	5601us	1602													
+Node1	Node3	89031124bps	1	8125us	2530													
+Node1	Node4	91314724bps	1	7265us	2595													
+Node1	Node5	80961032bps	1	8004us	2301													
+Node1	Node6	78542093bps	1	9911us	2232													
+Node1	Node7	88355157bps	1	7899us	2511													
+Node1	Node8	96843177bps	1	8078us	2752													
+Node1	Node9	51294611bps	1	9527us	1458													
+Node1	Node10	41395572bps	2	8024us	1177													
+Node1	Node11	43609698bps	2	7213us	1239													
+Node1	Node12	46132572bps	2	9365us	1311													
+Node1	Node13	59282576bps	1	9183us	1685													
+Node1	Node14	74582978bps	1	9174us	2119													
+Node1	Node15	82529151bps	1	8891us	2345													
+Node1	Node16	99895578bps	1	8378us	2838													
+Node1	Node17	66372904bps	1	5354us	1886													
+Node1	Node18	55148527bps	1	9542us	1567													
+Node1	Node19	72697615bps	1	9796us	2066													
+Node1	Node228	17262627bps	5	7736us	491													
+Node1	Node20	58909271bps	1	9979us	1674													
+Node1	Node21	57966229bps	1	9285us	1647													
+Node1	Node22	75017461bps	1	5509us	2132													
+Node328	Node226	1691517bps	59	19209us	49													
+Node328	Node227	1660692bps	60	19037us	48													
+Node338	Node229	2201026bps	45	69367us	63													
+Node338	Node230	2570262bps	38	28075us	74													
+Node334	Node223	2905339bps	34	33050us	83													
+Node334	Node224	1926850bps	51	10205us	55													
+Node334	Node232	2168130bps	46	15941us	62													
+Node0	Node231	18176522bps	5	7927us	517													
+Node0	Node223	19782232bps	5	5609us	562													
+Node0	Node224	16827505bps	5	5119us	479													
+Node0	Node232	10554499bps	9	5953us	300													
+Node231	Node339	1630391bps	61	60165us	47													
+Node231	Node340	2451947bps	40	41972us	70													
+Node231	Node24	12799263bps	7	6822us	364													
+Node25	Node233	11514474bps	8	9436us	328													
+Node25	Node234	11275207bps	8	5733us	321													
+Node25	Node235	10313961bps	9	6650us	294													
+Node25	Node236	15506935bps	6	5793us	441													
+Node23	Node233	14024357bps	7	8340us	399													
+Node23	Node234	13031174bps	7	5444us	371													
+Node23	Node235	19634963bps	5	9497us	558													
+Node23	Node236	19604295bps	5	9038us	557													
+Node342	Node237	1180807bps	84	38747us	34													
+Node342	Node238	1325233bps	75	30349us	38													
+Node342	Node241	2828449bps	35	29969us	81													
+Node341	Node239	1921858bps	52	19335us	55													
+Node341	Node240	2193595bps	45	50536us	63													
+Node336	Node242	1690485bps	59	34432us	49													
+Node336	Node243	2951606bps	33	69508us	84													
+Node26	Node27	67404738bps	1	5754us	1915													
+Node26	Node28	50445983bps	1	7708us	1434													
+Node26	Node32	46412655bps	2	8879us	1319													
+Node26	Node33	98570709bps	1	5062us	2801													
+Node29	Node30	54286991bps	1	7912us	1543													
+Node29	Node31	43130053bps	2	6576us	1226													
+Node29	Node35	66134688bps	1	5544us	1879													
+Node29	Node36	69343624bps	1	6616us	1970													
+Node34	Node30	87935422bps	1	7036us	2499													
+Node34	Node31	86832548bps	1	6829us	2467													
+Node34	Node35	77468564bps	1	8876us	2201													
+Node34	Node36	48458675bps	2	9355us	1377													
+Node337	Node245	2548519bps	39	55470us	73													
+Node337	Node246	2597077bps	38	56986us	74													
+Node343	Node247	2821916bps	35	29021us	81													
+Node343	Node245	1271597bps	78	24118us	37													
+Node343	Node246	1947504bps	51	42434us	56													
+Node331	Node245	2296681bps	43	21735us	66													
+Node346	Node245	2540530bps	39	13776us	73													
+Node346	Node246	1161043bps	86	59577us	33													
+Node347	Node245	1759682bps	56	37428us	50													
+Node332	Node245	1734191bps	57	13578us	50													
+Node332	Node246	1965069bps	50	40202us	56													
+Node344	Node247	1512172bps	66	45621us	43													
+Node344	Node245	1452987bps	68	20063us	42													
+Node344	Node246	2325792bps	42	50689us	67													
+Node348	Node246	2966710bps	33	26637us	85													
+Node333	Node247	1885325bps	53	58723us	54													
+Node333	Node245	2396520bps	41	67190us	69													
+Node247	Node349	2468153bps	40	16307us	71													
+Node247	Node245	12646761bps	7	5298us	360													
+Node345	Node245	1065880bps	93	55319us	31													
+Node345	Node246	2781996bps	35	12424us	80													
+Node350	Node245	2178008bps	45	30734us	62													
+Node351	Node245	2884665bps	34	64839us	82													
+Node351	Node246	2646416bps	37	10224us	76													
+Node352	Node245	1626110bps	61	30717us	47													
+Node349	Node245	2403236bps	41	44059us	69													
+Node349	Node246	2219438bps	45	37843us	64													
+Node353	Node248	2165459bps	46	67972us	62													
+Node353	Node249	1692396bps	59	23540us	49													
+Node354	Node248	1196200bps	83	65022us	34													
+Node354	Node249	2096550bps	47	62521us	60													
+Node355	Node248	2529665bps	39	32188us	72													
+Node355	Node249	2905638bps	34	20701us	83													
+Node358	Node245	1229223bps	81	33281us	35													
+Node358	Node246	1692187bps	59	62812us	49													
+Node357	Node248	2882253bps	34	49738us	82													
+Node357	Node249	2077932bps	48	25276us	60													
+Node360	Node248	2633505bps	37	34199us	75													
+Node360	Node249	1083775bps	92	38302us	31													
+Node245	Node250	11302133bps	8	8703us	322													
+Node245	Node251	13880891bps	7	7232us	395													
+Node245	Node252	13376176bps	7	7008us	381													
+Node245	Node361	2046912bps	48	67396us	59													
+Node245	Node362	2195100bps	45	15899us	63													
+Node245	Node363	2574692bps	38	11699us	74													
+Node245	Node364	1525388bps	65	20339us	44													
+Node245	Node365	2546306bps	39	64544us	73													
+Node245	Node366	2620048bps	38	49522us	75													
+Node245	Node367	1466342bps	68	16140us	42													
+Node245	Node368	2818392bps	35	21764us	81													
+Node246	Node250	12400890bps	8	9193us	353													
+Node246	Node251	18614892bps	5	5460us	529													
+Node246	Node252	14499715bps	6	9380us	412													
+Node246	Node369	2823168bps	35	33789us	81													
+Node246	Node361	1978925bps	50	17871us	57													
+Node246	Node363	2237704bps	44	57073us	64													
+Node246	Node364	1576588bps	63	50405us	45													
+Node246	Node365	2797119bps	35	24173us	80													
+Node246	Node366	1214872bps	82	46977us	35													
+Node246	Node367	1717949bps	58	40783us	49													
+Node246	Node368	1824637bps	54	38151us	52													
+Node246	Node227	14739877bps	6	7425us	419													
+Node250	Node251	18382380bps	5	7694us	523													
+Node250	Node252	18092349bps	5	5495us	514													
+Node250	Node248	19622880bps	5	7302us	558													
+Node250	Node249	19931735bps	5	7420us	567													
+Node250	Node370	1333213bps	75	18004us	38													
+Node250	Node253	14602869bps	6	6372us	415													
+Node250	Node38	12761629bps	7	5141us	363													
+Node251	Node248	19870156bps	5	9084us	565													
+Node251	Node249	13096681bps	7	5559us	373													
+Node251	Node370	2543641bps	39	53034us	73													
+Node251	Node254	12416256bps	8	8596us	353													
+Node251	Node39	18725101bps	5	5858us	532													
+Node251	Node40	12255982bps	8	9534us	349													
+Node251	Node255	17661774bps	5	9037us	502													
+Node251	Node256	12405619bps	8	9915us	353													
+Node251	Node257	11993734bps	8	8727us	341													
+Node251	Node41	19661219bps	5	8436us	559													
+Node251	Node223	16295386bps	6	9076us	463													
+Node251	Node227	13428105bps	7	5831us	382													
+Node252	Node248	12399850bps	8	5215us	353													
+Node252	Node249	18089803bps	5	9517us	514													
+Node252	Node370	1977615bps	50	49791us	57													
+Node252	Node364	2600736bps	38	60575us	74													
+Node252	Node254	18556749bps	5	6911us	528													
+Node252	Node39	13641846bps	7	9878us	388													
+Node252	Node40	17154152bps	5	9360us	488													
+Node252	Node255	17358844bps	5	9541us	494													
+Node252	Node256	13998554bps	7	7172us	398													
+Node252	Node229	13350712bps	7	9508us	380													
+Node252	Node226	11164715bps	8	8320us	318													
+Node252	Node41	12571526bps	7	7144us	358													
+Node252	Node223	17775096bps	5	6490us	505													
+Node252	Node227	17409118bps	5	8680us	495													
+Node248	Node371	2255928bps	44	28965us	65													
+Node248	Node372	1908140bps	52	51171us	55													
+Node249	Node371	2207431bps	45	23111us	63													
+Node249	Node372	2228821bps	44	62430us	64													
+Node330	Node244	2041631bps	48	16577us	59													
+Node330	Node258	1017079bps	98	31832us	29													
+Node359	Node244	2152570bps	46	27533us	62													
+Node359	Node258	2407455bps	41	59304us	69													
+Node373	Node244	1952022bps	51	69072us	56													
+Node373	Node258	1521695bps	65	61743us	44													
+Node375	Node244	2409816bps	41	40930us	69													
+Node375	Node258	2426712bps	41	43373us	69													
+Node374	Node244	2350363bps	42	12405us	67													
+Node374	Node258	1756795bps	56	60364us	50													
+Node244	Node260	11047056bps	9	6366us	314													
+Node244	Node43	19216393bps	5	7973us	546													
+Node244	Node623	16735783bps	5	8501us	476													
+Node244	Node377	2901596bps	34	30937us	83													
+Node258	Node259	16919313bps	5	6658us	481													
+Node258	Node377	1592164bps	62	56426us	46													
+Node42	Node233	18712426bps	5	7128us	532													
+Node42	Node234	10280878bps	9	5491us	293													
+Node42	Node235	13953736bps	7	5865us	397													
+Node42	Node236	18651958bps	5	9317us	530													
+Node378	Node262	1990451bps	50	42635us	57													
+Node379	Node262	1973968bps	50	39150us	57													
+Node379	Node263	1165267bps	85	22228us	34													
+Node376	Node264	2686610bps	37	62921us	77													
+Node376	Node265	2352267bps	42	57735us	67													
+Node376	Node266	1311133bps	76	49007us	38													
+Node262	Node263	12625061bps	7	7110us	359													
+Node262	Node46	13951808bps	7	8042us	397													
+Node262	Node44	10269607bps	9	6575us	292													
+Node262	Node45	18919983bps	5	5019us	538													
+Node263	Node261	18657157bps	5	7264us	531													
+Node263	Node267	18592928bps	5	9435us	529													
+Node48	Node233	16392161bps	6	9506us	466													
+Node48	Node234	16933187bps	5	6360us	482													
+Node48	Node235	12050089bps	8	8111us	343													
+Node48	Node236	11054620bps	9	6703us	315													
+Node47	Node233	16049445bps	6	7473us	456													
+Node47	Node234	17422541bps	5	5080us	495													
+Node47	Node235	15464024bps	6	9034us	440													
+Node47	Node236	16674060bps	5	5006us	474													
+Node381	Node269	1242192bps	80	31152us	36													
+Node49	Node30	95422393bps	1	9097us	2711													
+Node49	Node31	43984284bps	2	5554us	1250													
+Node49	Node35	98050359bps	1	6466us	2786													
+Node49	Node36	42862371bps	2	9492us	1218													
+Node50	Node270	12971040bps	7	7417us	369													
+Node50	Node624	17116042bps	5	5087us	487													
+Node50	Node268	18859255bps	5	5727us	536													
+Node50	Node53	53572006bps	1	7437us	1522													
+Node54	Node270	16213963bps	6	6963us	461													
+Node54	Node624	10283967bps	9	7419us	293													
+Node54	Node268	10248305bps	9	5261us	292													
+Node54	Node53	55671009bps	1	6576us	1582													
+Node51	Node270	10207338bps	9	6940us	290													
+Node51	Node624	19246626bps	5	9225us	547													
+Node51	Node268	18947722bps	5	6848us	539													
+Node51	Node53	60790300bps	1	5379us	1727													
+Node52	Node270	19414365bps	5	5791us	552													
+Node52	Node624	10194942bps	9	8435us	290													
+Node52	Node268	16597273bps	6	5841us	472													
+Node52	Node53	88487203bps	1	5515us	2514													
+Node55	Node270	11952894bps	8	6024us	340													
+Node55	Node624	17010176bps	5	6273us	484													
+Node55	Node268	19174086bps	5	5409us	545													
+Node55	Node53	85430116bps	1	6068us	2427													
+Node56	Node270	14166881bps	7	8250us	403													
+Node56	Node624	19095548bps	5	9562us	543													
+Node56	Node268	16028001bps	6	7652us	456													
+Node56	Node53	43421543bps	2	9173us	1234													
+Node57	Node270	15701771bps	6	5491us	447													
+Node57	Node624	11681424bps	8	5660us	332													
+Node57	Node268	10574671bps	9	5644us	301													
+Node57	Node53	92631960bps	1	8915us	2632													
+Node382	Node270	2896123bps	34	56056us	83													
+Node382	Node624	1237293bps	80	28344us	36													
+Node382	Node268	2025211bps	49	29089us	58													
+Node58	Node270	13573143bps	7	5275us	386													
+Node58	Node624	12289097bps	8	6324us	350													
+Node58	Node268	11623073bps	8	8939us	331													
+Node58	Node53	49623575bps	2	9165us	1410													
+Node356	Node269	2259043bps	44	38325us	65													
+Node37	Node270	19142477bps	5	9961us	544													
+Node37	Node624	15322942bps	6	8426us	436													
+Node37	Node268	13467206bps	7	9207us	383													
+Node37	Node53	89523986bps	1	8230us	2544													
+Node60	Node270	15883736bps	6	7472us	452													
+Node60	Node624	10482753bps	9	5935us	298													
+Node60	Node268	16427100bps	6	9369us	467													
+Node60	Node53	57941827bps	1	6188us	1647													
+Node59	Node270	18345251bps	5	6313us	522													
+Node59	Node624	17282332bps	5	6584us	491													
+Node59	Node268	16527975bps	6	8024us	470													
+Node59	Node53	48081043bps	2	6657us	1366													
+Node270	Node271	18839891bps	5	5326us	536													
+Node270	Node384	2263802bps	44	45335us	65													
+Node270	Node61	15786441bps	6	5247us	449													
+Node270	Node62	13486771bps	7	6872us	384													
+Node270	Node63	16992278bps	5	9801us	483													
+Node270	Node64	16870301bps	5	9247us	480													
+Node270	Node385	1200831bps	83	26393us	35													
+Node624	Node272	18407355bps	5	6998us	523													
+Node624	Node273	15064435bps	6	8059us	428													
+Node624	Node384	1931445bps	51	19811us	55													
+Node624	Node66	14621131bps	6	8445us	416													
+Node624	Node274	11343339bps	8	8063us	323													
+Node624	Node61	19153312bps	5	8206us	545													
+Node624	Node62	17159221bps	5	6119us	488													
+Node624	Node63	13756133bps	7	8110us	391													
+Node624	Node64	14366514bps	6	9035us	409													
+Node624	Node385	1498390bps	66	23293us	43													
+Node268	Node272	16078397bps	6	9776us	457													
+Node268	Node273	13913317bps	7	8690us	396													
+Node268	Node271	19735057bps	5	9891us	561													
+Node268	Node384	2064360bps	48	17413us	59													
+Node268	Node66	10194868bps	9	7786us	290													
+Node268	Node61	10279498bps	9	5587us	293													
+Node268	Node62	17000503bps	5	6851us	483													
+Node268	Node63	10203940bps	9	6740us	290													
+Node268	Node64	10701170bps	9	7705us	305													
+Node53	Node273	19288975bps	5	8040us	548													
+Node53	Node271	11934288bps	8	5788us	340													
+Node53	Node66	58208576bps	1	8402us	1654													
+Node53	Node61	78571750bps	1	7574us	2233													
+Node53	Node62	87579331bps	1	5270us	2489													
+Node53	Node63	46693110bps	2	5182us	1327													
+Node53	Node64	80692351bps	1	5563us	2293													
+Node272	Node380	1387811bps	72	33468us	40													
+Node272	Node18	12508275bps	7	7803us	356													
+Node272	Node65	13098228bps	7	8000us	373													
+Node272	Node67	16949985bps	5	8496us	482													
+Node273	Node380	2781089bps	35	35746us	80													
+Node273	Node18	19618971bps	5	8707us	558													
+Node273	Node65	13796158bps	7	8368us	392													
+Node273	Node67	13566024bps	7	8644us	386													
+Node271	Node386	1910413bps	52	53470us	55													
+Node271	Node70	13725057bps	7	5429us	390													
+Node66	Node276	15267567bps	6	7436us	434													
+Node66	Node68	56574768bps	1	5962us	1608													
+Node66	Node274	17044302bps	5	8462us	485													
+Node66	Node69	93913996bps	1	7968us	2669													
+Node66	Node61	76655295bps	1	6111us	2178													
+Node2	Node275	15559267bps	6	5835us	443													
+Node2	Node277	18929359bps	5	8996us	538													
+Node2	Node71	81929823bps	1	5573us	2328													
+Node2	Node72	55256052bps	1	7299us	1570													
+Node2	Node73	41923350bps	2	5592us	1192													
+Node2	Node279	18678205bps	5	7289us	531													
+Node2	Node280	18191138bps	5	7933us	517													
+Node2	Node74	60049648bps	1	7353us	1706													
+Node2	Node281	18145635bps	5	5932us	516													
+Node2	Node75	73106174bps	1	5059us	2077													
+Node2	Node76	78071970bps	1	7481us	2218													
+Node77	Node233	13456298bps	7	9921us	383													
+Node77	Node234	16433549bps	6	5611us	467													
+Node77	Node235	11483827bps	8	7553us	327													
+Node77	Node236	14019068bps	7	8206us	399													
+Node387	Node278	1429103bps	69	21368us	41													
+Node387	Node282	2680811bps	37	47515us	77													
+Node387	Node283	2605967bps	38	26391us	75													
+Node388	Node278	1554815bps	64	13659us	45													
+Node388	Node282	2202455bps	45	24047us	63													
+Node388	Node283	2934721bps	34	23855us	84													
+Node389	Node221	1989922bps	50	68932us	57													
+Node389	Node222	2396709bps	41	23670us	69													
+Node389	Node225	1067046bps	93	65663us	31													
+Node390	Node221	2595482bps	38	46510us	74													
+Node390	Node222	1356827bps	73	58388us	39													
+Node390	Node274	2071022bps	48	50082us	59													
+Node78	Node278	19296591bps	5	5499us	549													
+Node78	Node282	12506433bps	7	9373us	356													
+Node78	Node283	12583821bps	7	9302us	358													
+Node78	Node79	79892034bps	1	5276us	2270													
+Node391	Node278	1126983bps	88	19225us	33													
+Node391	Node282	2841160bps	35	46449us	81													
+Node391	Node283	2917219bps	34	55950us	83													
+Node392	Node278	1723019bps	58	54839us	49													
+Node392	Node282	2215627bps	45	20397us	63													
+Node392	Node283	2536971bps	39	12595us	73													
+Node393	Node278	1831949bps	54	67717us	53													
+Node393	Node282	1271179bps	78	45943us	37													
+Node393	Node283	1902108bps	52	47255us	55													
+Node396	Node278	1306493bps	76	50428us	38													
+Node396	Node282	1501307bps	66	21347us	43													
+Node396	Node283	1363472bps	73	54945us	39													
+Node397	Node278	1540252bps	64	55522us	44													
+Node397	Node282	1470793bps	67	22856us	42													
+Node397	Node283	2637863bps	37	65277us	75													
+Node394	Node278	1079714bps	92	68744us	31													
+Node394	Node282	2972748bps	33	69064us	85													
+Node398	Node278	2809868bps	35	69651us	80													
+Node398	Node282	2732135bps	36	53968us	78													
+Node398	Node283	1608562bps	62	31798us	46													
+Node395	Node278	1442766bps	69	41487us	41													
+Node395	Node282	2219966bps	45	51771us	64													
+Node395	Node283	2415370bps	41	47592us	69													
+Node400	Node278	2912719bps	34	14801us	83													
+Node400	Node282	2113775bps	47	24337us	61													
+Node400	Node283	1589446bps	62	18551us	46													
+Node399	Node278	1188472bps	84	15455us	34													
+Node399	Node282	1515532bps	65	57046us	44													
+Node399	Node283	2538057bps	39	16429us	73													
+Node402	Node278	1264650bps	79	66718us	36													
+Node402	Node282	1342374bps	74	42662us	39													
+Node402	Node283	2742496bps	36	30336us	78													
+Node401	Node282	1477010bps	67	16319us	42													
+Node403	Node278	2725299bps	36	16626us	78													
+Node403	Node282	2123204bps	47	34300us	61													
+Node403	Node283	2523176bps	39	44364us	72													
+Node284	Node221	19119820bps	5	9057us	544													
+Node284	Node222	13619613bps	7	5676us	387													
+Node284	Node225	11740635bps	8	6248us	334													
+Node284	Node404	1936612bps	51	23614us	56													
+Node405	Node276	1365926bps	73	24759us	39													
+Node405	Node285	2218350bps	45	50717us	64													
+Node405	Node286	2301166bps	43	41134us	66													
+Node278	Node79	10562314bps	9	9013us	301													
+Node278	Node406	1377124bps	72	15712us	40													
+Node278	Node407	2097368bps	47	12150us	60													
+Node278	Node80	13467627bps	7	6411us	383													
+Node278	Node81	19127632bps	5	7894us	544													
+Node278	Node82	12894269bps	7	8195us	367													
+Node278	Node276	13986476bps	7	7219us	398													
+Node278	Node68	17438360bps	5	6709us	496													
+Node278	Node69	15351055bps	6	8575us	437													
+Node278	Node408	2315491bps	43	34263us	66													
+Node278	Node409	1666411bps	60	25803us	48													
+Node278	Node410	1378405bps	72	57110us	40													
+Node278	Node411	2244965bps	44	61631us	64													
+Node278	Node285	13259377bps	7	7596us	377													
+Node278	Node286	19886066bps	5	5341us	565													
+Node278	Node412	2570837bps	38	43721us	74													
+Node278	Node413	2126591bps	47	46703us	61													
+Node278	Node414	1307298bps	76	10510us	38													
+Node278	Node415	1310067bps	76	68519us	38													
+Node282	Node79	19486149bps	5	6978us	554													
+Node282	Node83	12554520bps	7	6415us	357													
+Node282	Node84	15859924bps	6	6392us	451													
+Node282	Node85	12976905bps	7	5227us	369													
+Node282	Node416	1907116bps	52	25715us	55													
+Node282	Node406	1706714bps	58	47635us	49													
+Node282	Node407	2158732bps	46	62942us	62													
+Node282	Node80	17545335bps	5	9732us	499													
+Node282	Node81	15928304bps	6	9130us	453													
+Node282	Node82	11602460bps	8	9237us	330													
+Node282	Node276	10693960bps	9	5411us	304													
+Node282	Node68	16741449bps	5	8317us	476													
+Node282	Node274	10112541bps	9	9421us	288													
+Node282	Node69	19590384bps	5	5856us	557													
+Node282	Node408	2136571bps	46	26718us	61													
+Node282	Node409	2669402bps	37	31297us	76													
+Node282	Node410	1710938bps	58	21415us	49													
+Node282	Node411	2149975bps	46	12553us	62													
+Node282	Node285	15208987bps	6	7578us	433													
+Node282	Node286	16292096bps	6	8163us	463													
+Node282	Node412	2206594bps	45	40396us	63													
+Node282	Node413	2738029bps	36	38008us	78													
+Node282	Node414	2535591bps	39	63508us	73													
+Node282	Node415	2660811bps	37	36719us	76													
+Node283	Node79	11022624bps	9	6982us	314													
+Node283	Node406	1853549bps	53	30512us	53													
+Node283	Node407	1465118bps	68	14461us	42													
+Node283	Node80	14479544bps	6	7063us	412													
+Node283	Node81	17369988bps	5	6079us	494													
+Node283	Node82	10426906bps	9	7374us	297													
+Node283	Node276	12295439bps	8	9562us	350													
+Node283	Node68	11744541bps	8	8987us	334													
+Node283	Node69	18514991bps	5	6778us	526													
+Node283	Node408	2679845bps	37	56616us	77													
+Node283	Node409	2421432bps	41	27002us	69													
+Node283	Node410	2270500bps	44	39821us	65													
+Node283	Node411	2735839bps	36	61673us	78													
+Node283	Node285	17584540bps	5	8418us	500													
+Node283	Node286	11218986bps	8	5386us	319													
+Node283	Node412	1416494bps	70	10882us	41													
+Node283	Node413	1339063bps	74	30460us	39													
+Node283	Node414	1300654bps	76	30367us	37													
+Node283	Node415	2461424bps	40	41309us	70													
+Node79	Node70	95003706bps	1	5463us	2699													
+Node79	Node222	10080950bps	9	5797us	287													
+Node79	Node225	10765281bps	9	8335us	306													
+Node79	Node86	98606544bps	1	7551us	2802													
+Node79	Node87	89062038bps	1	8441us	2531													
+Node79	Node17	50612252bps	1	6221us	1438													
+Node79	Node88	79349385bps	1	7092us	2255													
+Node79	Node89	84610725bps	1	5798us	2404													
+Node79	Node90	53175036bps	1	6087us	1511													
+Node79	Node267	14604418bps	6	5086us	415													
+Node79	Node226	15476291bps	6	6094us	440													
+Node83	Node70	50234739bps	1	5042us	1428													
+Node83	Node221	15555735bps	6	6703us	442													
+Node83	Node222	17983744bps	5	6627us	511													
+Node83	Node225	19744651bps	5	6107us	561													
+Node83	Node17	79072787bps	1	9633us	2247													
+Node83	Node91	72373634bps	1	7643us	2057													
+Node83	Node89	86845399bps	1	6942us	2468													
+Node83	Node90	58609098bps	1	9355us	1666													
+Node83	Node267	18560256bps	5	8744us	528													
+Node84	Node70	85463678bps	1	5800us	2428													
+Node84	Node222	19859949bps	5	5048us	565													
+Node84	Node225	15078528bps	6	9840us	429													
+Node84	Node86	82815253bps	1	9054us	2353													
+Node84	Node87	91968302bps	1	6203us	2613													
+Node84	Node17	98748738bps	1	5628us	2806													
+Node84	Node89	83454844bps	1	6938us	2371													
+Node84	Node90	70982097bps	1	5257us	2017													
+Node84	Node261	18381788bps	5	6230us	523													
+Node84	Node267	11331884bps	8	5057us	322													
+Node85	Node222	14889999bps	6	5082us	424													
+Node85	Node225	15095573bps	6	5105us	429													
+Node85	Node17	53096765bps	1	9042us	1509													
+Node85	Node91	45485342bps	2	8968us	1293													
+Node85	Node89	81799882bps	1	5641us	2324													
+Node85	Node90	97634022bps	1	9842us	2774													
+Node85	Node267	12728116bps	7	7008us	362													
+Node386	Node288	1497975bps	66	54839us	43													
+Node386	Node287	1035480bps	96	40552us	30													
+Node70	Node288	11262421bps	8	9005us	320													
+Node70	Node287	14409695bps	6	5885us	410													
+Node221	Node80	12333170bps	8	5747us	351													
+Node221	Node81	11288955bps	8	7558us	321													
+Node221	Node82	12554292bps	7	9764us	357													
+Node221	Node276	19608834bps	5	9360us	558													
+Node221	Node68	14610551bps	6	9863us	416													
+Node221	Node274	18303372bps	5	5426us	520													
+Node221	Node69	19894697bps	5	6196us	566													
+Node221	Node417	2583557bps	38	44947us	74													
+Node221	Node418	1841721bps	54	64115us	53													
+Node221	Node419	2135170bps	46	27307us	61													
+Node221	Node420	1466906bps	68	15885us	42													
+Node221	Node421	1723631bps	58	16671us	49													
+Node221	Node422	1397218bps	71	48699us	40													
+Node221	Node423	1261213bps	79	28672us	36													
+Node221	Node424	1203529bps	83	22275us	35													
+Node221	Node425	2618819bps	38	65587us	75													
+Node222	Node81	18804089bps	5	6407us	535													
+Node222	Node276	13321479bps	7	9043us	379													
+Node222	Node68	13450047bps	7	7351us	383													
+Node222	Node274	11913146bps	8	8573us	339													
+Node222	Node69	17854442bps	5	9506us	508													
+Node222	Node417	2940592bps	34	23224us	84													
+Node222	Node418	1957983bps	51	14742us	56													
+Node222	Node419	1225254bps	81	16987us	35													
+Node222	Node420	1586585bps	63	25013us	46													
+Node222	Node421	1986426bps	50	43661us	57													
+Node222	Node422	1720304bps	58	31813us	49													
+Node222	Node423	1517994bps	65	35680us	44													
+Node222	Node87	17350500bps	5	7090us	493													
+Node222	Node424	1642603bps	60	50506us	47													
+Node222	Node425	1651804bps	60	41619us	47													
+Node225	Node80	15204511bps	6	7704us	432													
+Node225	Node81	12548125bps	7	7771us	357													
+Node225	Node82	19572344bps	5	7784us	557													
+Node225	Node276	15391331bps	6	5241us	438													
+Node225	Node68	16462661bps	6	8879us	468													
+Node225	Node274	13827174bps	7	9942us	393													
+Node225	Node69	11052110bps	9	5723us	314													
+Node225	Node417	1343097bps	74	57013us	39													
+Node225	Node418	2081028bps	48	58255us	60													
+Node225	Node419	2090652bps	47	23377us	60													
+Node225	Node420	1044365bps	95	36796us	30													
+Node225	Node421	1773560bps	56	48056us	51													
+Node225	Node422	1678615bps	59	61803us	48													
+Node225	Node423	1368621bps	73	48740us	39													
+Node225	Node426	2237321bps	44	58110us	64													
+Node225	Node17	11528603bps	8	6111us	328													
+Node225	Node424	1944692bps	51	44731us	56													
+Node225	Node425	1192818bps	83	24912us	34													
+Node86	Node80	61895725bps	1	9742us	1759													
+Node86	Node81	44723099bps	2	7086us	1271													
+Node86	Node82	94350095bps	1	7797us	2681													
+Node86	Node276	18401794bps	5	5490us	523													
+Node86	Node68	69611259bps	1	6802us	1978													
+Node86	Node274	18680656bps	5	5638us	531													
+Node86	Node69	97954105bps	1	7463us	2783													
+Node80	Node276	10175611bps	9	7622us	290													
+Node80	Node68	64481556bps	1	7627us	1832													
+Node80	Node69	46148543bps	2	8342us	1312													
+Node80	Node19	49833888bps	2	5867us	1416													
+Node80	Node228	15602448bps	6	7886us	444													
+Node80	Node92	50603174bps	1	6473us	1438													
+Node80	Node93	72492444bps	1	7620us	2060													
+Node81	Node276	11687172bps	8	7350us	333													
+Node81	Node68	99974155bps	1	5250us	2841													
+Node81	Node69	81471181bps	1	7153us	2315													
+Node81	Node19	79238852bps	1	5794us	2252													
+Node81	Node228	13638426bps	7	5740us	388													
+Node81	Node92	51924944bps	1	5510us	1476													
+Node81	Node93	63904996bps	1	9464us	1816													
+Node82	Node276	15911643bps	6	5510us	453													
+Node82	Node68	75676151bps	1	9741us	2150													
+Node82	Node69	67253571bps	1	5779us	1911													
+Node82	Node19	92553152bps	1	6753us	2630													
+Node82	Node228	10668270bps	9	9550us	304													
+Node82	Node92	77784556bps	1	7511us	2210													
+Node82	Node93	47319059bps	2	5493us	1345													
+Node276	Node269	11682617bps	8	9674us	332													
+Node276	Node94	19512871bps	5	7163us	555													
+Node276	Node95	11168315bps	8	9454us	318													
+Node276	Node96	19483168bps	5	5469us	554													
+Node276	Node288	11597928bps	8	7520us	330													
+Node68	Node269	18667944bps	5	8881us	531													
+Node68	Node94	67257270bps	1	5856us	1911													
+Node68	Node95	67139633bps	1	7890us	1908													
+Node68	Node96	44762514bps	2	9453us	1272													
+Node68	Node288	11394450bps	8	5211us	324													
+Node68	Node287	10318280bps	9	6897us	294													
+Node274	Node428	1927650bps	51	64993us	55													
+Node274	Node269	19200820bps	5	5461us	546													
+Node274	Node290	15844093bps	6	8253us	451													
+Node274	Node94	14414516bps	6	6468us	410													
+Node274	Node95	11514258bps	8	9937us	328													
+Node274	Node97	10252404bps	9	7118us	292													
+Node274	Node288	14831564bps	6	6394us	422													
+Node274	Node287	18915399bps	5	7570us	538													
+Node69	Node269	10999334bps	9	8089us	313													
+Node69	Node94	49799932bps	2	6850us	1415													
+Node69	Node95	53275187bps	1	7505us	1514													
+Node69	Node288	11100115bps	9	7995us	316													
+Node428	Node269	1975889bps	50	69601us	57													
+Node427	Node269	2100525bps	47	43786us	60													
+Node430	Node289	2596119bps	38	56792us	74													
+Node430	Node291	2985020bps	33	12690us	85													
+Node429	Node289	1161709bps	86	36939us	34													
+Node429	Node291	2771505bps	36	26074us	79													
+Node431	Node292	2923058bps	34	30126us	84													
+Node431	Node293	1234394bps	81	18319us	36													
+Node431	Node294	2703821bps	36	11969us	77													
+Node432	Node269	1426312bps	70	61814us	41													
+Node98	Node295	18455724bps	5	8038us	525													
+Node98	Node264	12117474bps	8	5705us	345													
+Node98	Node265	16835476bps	5	9012us	479													
+Node98	Node266	15237266bps	6	7752us	433													
+Node296	Node435	2503507bps	39	47577us	72													
+Node296	Node436	2188573bps	45	38820us	63													
+Node296	Node299	13250158bps	7	7980us	377													
+Node296	Node100	13305146bps	7	8185us	378													
+Node99	Node255	18404684bps	5	6621us	523													
+Node99	Node297	17004027bps	5	6472us	484													
+Node99	Node298	12792890bps	7	5136us	364													
+Node99	Node101	96965887bps	1	6113us	2755													
+Node438	Node298	1104023bps	90	53797us	32													
+Node437	Node297	1873402bps	53	42745us	54													
+Node437	Node298	2283860bps	43	34203us	65													
+Node441	Node299	1992249bps	50	33926us	57													
+Node440	Node299	2233919bps	44	26052us	64													
+Node443	Node299	2269919bps	44	56688us	65													
+Node439	Node299	1121016bps	89	33821us	32													
+Node445	Node299	1816437bps	55	57825us	52													
+Node446	Node299	2178719bps	45	22884us	62													
+Node442	Node297	1862733bps	53	14772us	53													
+Node448	Node297	1111504bps	89	31249us	32													
+Node444	Node297	1614528bps	61	34259us	46													
+Node444	Node298	2535210bps	39	24908us	73													
+Node335	Node254	1399504bps	71	30373us	40													
+Node335	Node255	2353633bps	42	56521us	67													
+Node335	Node260	1347918bps	74	44309us	39													
+Node433	Node299	2693740bps	37	23230us	77													
+Node434	Node297	2972424bps	33	38317us	85													
+Node434	Node298	1667192bps	59	66100us	48													
+Node447	Node297	1291230bps	77	34265us	37													
+Node447	Node298	1664677bps	60	37369us	48													
+Node299	Node260	19357065bps	5	9222us	550													
+Node299	Node43	17906530bps	5	7037us	509													
+Node299	Node449	2575360bps	38	30086us	74													
+Node100	Node254	19192421bps	5	9185us	546													
+Node100	Node39	60999172bps	1	8259us	1733													
+Node100	Node255	18307430bps	5	5668us	521													
+Node100	Node256	13398367bps	7	5721us	381													
+Node100	Node623	40656841bps	2	7259us	1156													
+Node254	Node297	16800930bps	5	5143us	478													
+Node254	Node298	13028781bps	7	7440us	371													
+Node254	Node103	15317523bps	6	9947us	436													
+Node254	Node300	15180279bps	6	6159us	432													
+Node254	Node229	13062891bps	7	6959us	372													
+Node254	Node257	12303984bps	8	6080us	350													
+Node39	Node623	66975851bps	1	5794us	1903													
+Node39	Node297	12368255bps	8	7029us	352													
+Node39	Node298	10226907bps	9	6170us	291													
+Node39	Node103	78406106bps	1	7921us	2228													
+Node39	Node300	19402039bps	5	6311us	552													
+Node39	Node229	12962307bps	7	8873us	369													
+Node39	Node257	10849891bps	9	6147us	309													
+Node40	Node300	19512241bps	5	8296us	555													
+Node40	Node229	15751740bps	6	8745us	448													
+Node40	Node257	18803024bps	5	7908us	535													
+Node255	Node623	19634880bps	5	7624us	558													
+Node255	Node297	13187449bps	7	9359us	375													
+Node255	Node298	16032045bps	6	6525us	456													
+Node255	Node103	15596422bps	6	8349us	444													
+Node255	Node300	13812304bps	7	9660us	393													
+Node255	Node229	17872202bps	5	6370us	508													
+Node255	Node230	19312652bps	5	5904us	549													
+Node255	Node257	17988638bps	5	9789us	512													
+Node255	Node104	17075855bps	5	9893us	486													
+Node256	Node260	17177809bps	5	8823us	489													
+Node256	Node43	17248982bps	5	5772us	491													
+Node256	Node623	16690365bps	5	6969us	475													
+Node256	Node297	10283551bps	9	9921us	293													
+Node256	Node298	11765685bps	8	9868us	335													
+Node256	Node103	10916336bps	9	9736us	311													
+Node256	Node450	2835132bps	35	17824us	81													
+Node256	Node300	18837094bps	5	5538us	536													
+Node256	Node229	10753358bps	9	7881us	306													
+Node256	Node257	17137591bps	5	5006us	487													
+Node256	Node105	13696029bps	7	6441us	390													
+Node260	Node297	16105859bps	6	6527us	458													
+Node260	Node298	14807436bps	6	7188us	421													
+Node260	Node103	12972926bps	7	5308us	369													
+Node260	Node102	10414241bps	9	7470us	296													
+Node260	Node101	12399936bps	8	9994us	353													
+Node260	Node240	14778898bps	6	8070us	420													
+Node43	Node297	12814821bps	7	6202us	365													
+Node43	Node298	19639589bps	5	9254us	558													
+Node43	Node289	15427182bps	6	7386us	439													
+Node43	Node301	10885710bps	9	5427us	310													
+Node43	Node102	91751333bps	1	8116us	2607													
+Node43	Node106	54486954bps	1	6845us	1548													
+Node43	Node101	58841657bps	1	6247us	1672													
+Node43	Node240	14671864bps	6	7796us	417													
+Node623	Node102	64076484bps	1	7097us	1821													
+Node623	Node101	79636915bps	1	8391us	2263													
+Node623	Node240	19181794bps	5	6864us	545													
+Node297	Node452	2822979bps	35	19209us	81													
+Node297	Node451	1418308bps	70	42043us	41													
+Node297	Node454	2659460bps	37	51068us	76													
+Node297	Node455	2376644bps	42	69498us	68													
+Node297	Node456	2481705bps	40	69637us	71													
+Node298	Node452	2718998bps	36	28830us	78													
+Node298	Node451	2531025bps	39	16615us	72													
+Node298	Node454	1652776bps	60	15432us	47													
+Node298	Node455	2690733bps	37	62956us	77													
+Node298	Node456	1900832bps	52	17464us	55													
+Node460	Node269	2367498bps	42	35430us	68													
+Node453	Node269	1647633bps	60	54084us	47													
+Node459	Node269	2018851bps	49	68391us	58													
+Node461	Node269	2460550bps	40	33690us	70													
+Node383	Node269	1580658bps	63	69335us	45													
+Node383	Node292	1259090bps	79	39588us	36													
+Node269	Node462	2996829bps	33	16260us	86													
+Node269	Node457	2569458bps	38	62126us	73													
+Node458	Node289	1926615bps	51	58730us	55													
+Node458	Node291	1585873bps	63	18273us	46													
+Node466	Node289	2803519bps	35	62733us	80													
+Node466	Node291	1144280bps	87	34983us	33													
+Node467	Node289	2786925bps	35	63538us	80													
+Node467	Node291	2637738bps	37	15823us	75													
+Node465	Node289	1758564bps	56	28499us	50													
+Node465	Node291	1567183bps	63	13122us	45													
+Node471	Node289	2798718bps	35	19490us	80													
+Node471	Node291	1760771bps	56	28013us	51													
+Node470	Node291	1572009bps	63	54950us	45													
+Node469	Node289	2987804bps	33	26145us	85													
+Node469	Node291	2770627bps	36	17941us	79													
+Node464	Node289	2839888bps	35	68101us	81													
+Node464	Node291	2145540bps	46	16024us	61													
+Node468	Node289	2748313bps	36	41991us	79													
+Node468	Node291	2032460bps	49	15157us	58													
+Node472	Node289	1646235bps	60	20782us	47													
+Node472	Node291	2919911bps	34	17729us	83													
+Node463	Node289	2800509bps	35	15101us	80													
+Node463	Node291	1139909bps	87	16417us	33													
+Node289	Node302	18191946bps	5	9521us	517													
+Node289	Node102	12258631bps	8	7208us	349													
+Node289	Node474	2532381bps	39	38370us	72													
+Node289	Node475	2520063bps	39	15320us	72													
+Node291	Node302	14392541bps	6	8011us	409													
+Node291	Node301	13782579bps	7	5828us	392													
+Node291	Node102	19810980bps	5	7732us	563													
+Node291	Node474	2468514bps	40	18736us	71													
+Node291	Node475	1122683bps	89	34748us	32													
+Node302	Node104	12579444bps	7	6733us	358													
+Node302	Node108	17978768bps	5	9325us	511													
+Node302	Node107	15173789bps	6	8192us	432													
+Node302	Node476	2085604bps	47	21533us	60													
+Node301	Node102	10696725bps	9	6278us	304													
+Node301	Node108	11828238bps	8	5175us	337													
+Node301	Node476	2228125bps	44	42893us	64													
+Node102	Node101	74475894bps	1	9481us	2116													
+Node478	Node304	2969120bps	33	18286us	85													
+Node473	Node304	2892194bps	34	12466us	83													
+Node473	Node303	2109746bps	47	65360us	60													
+Node477	Node304	1215640bps	82	69183us	35													
+Node477	Node303	1658829bps	60	43956us	48													
+Node480	Node253	2598073bps	38	23288us	74													
+Node109	Node295	17882647bps	5	7921us	509													
+Node109	Node264	13027113bps	7	7828us	371													
+Node109	Node265	12315807bps	8	8160us	350													
+Node109	Node266	16460494bps	6	6643us	468													
+Node481	Node233	1428982bps	69	54864us	41													
+Node481	Node236	2549020bps	39	26541us	73													
+Node113	Node30	95468576bps	1	6302us	2713													
+Node113	Node31	98915886bps	1	8083us	2811													
+Node113	Node35	55494893bps	1	6351us	1577													
+Node113	Node36	74736392bps	1	5791us	2124													
+Node110	Node30	87575109bps	1	8636us	2488													
+Node110	Node31	53632098bps	1	9008us	1524													
+Node110	Node35	57210099bps	1	8922us	1626													
+Node110	Node36	46796119bps	2	9867us	1330													
+Node111	Node27	42135096bps	2	5993us	1198													
+Node111	Node28	85477445bps	1	5849us	2429													
+Node111	Node32	92484475bps	1	9598us	2628													
+Node111	Node33	63188866bps	1	9562us	1796													
+Node112	Node87	43720216bps	2	7862us	1243													
+Node112	Node233	13136173bps	7	9074us	374													
+Node112	Node234	11817982bps	8	6341us	336													
+Node112	Node235	10906245bps	9	8378us	310													
+Node112	Node236	16275121bps	6	9869us	463													
+Node114	Node233	16819333bps	5	9497us	478													
+Node114	Node234	17766709bps	5	6508us	505													
+Node114	Node235	15876922bps	6	6357us	452													
+Node114	Node236	16275186bps	6	7717us	463													
+Node482	Node292	2819867bps	35	41886us	81													
+Node482	Node293	1653726bps	60	58111us	47													
+Node482	Node294	2432706bps	41	22614us	70													
+Node483	Node292	1228830bps	81	51672us	35													
+Node483	Node293	1604573bps	62	28875us	46													
+Node483	Node294	2350875bps	42	46166us	67													
+Node484	Node305	2258289bps	44	15719us	65													
+Node486	Node305	1805700bps	55	42646us	52													
+Node487	Node292	1554251bps	64	33640us	45													
+Node487	Node293	1984303bps	50	64216us	57													
+Node487	Node294	2566297bps	38	41920us	73													
+Node488	Node292	2559880bps	39	39480us	73													
+Node488	Node293	2260829bps	44	33480us	65													
+Node488	Node294	2645353bps	37	59975us	76													
+Node489	Node259	2505463bps	39	41980us	72													
+Node489	Node300	1235032bps	80	37974us	36													
+Node490	Node259	1456710bps	68	61465us	42													
+Node490	Node300	1860486bps	53	43570us	53													
+Node485	Node300	2731494bps	36	64173us	78													
+Node450	Node259	1804657bps	55	24261us	52													
+Node450	Node300	2734065bps	36	53041us	78													
+Node492	Node259	2319145bps	43	15116us	66													
+Node492	Node300	2663449bps	37	63250us	76													
+Node491	Node259	2451615bps	40	62494us	70													
+Node491	Node300	1075402bps	92	21047us	31													
+Node259	Node300	17919819bps	5	8589us	510													
+Node259	Node493	1835754bps	54	60304us	53													
+Node259	Node494	2589797bps	38	42004us	74													
+Node300	Node493	1330594bps	75	14891us	38													
+Node300	Node494	2497998bps	40	48096us	71													
+Node300	Node495	2497003bps	40	22009us	71													
+Node300	Node306	12784504bps	7	8324us	364													
+Node496	Node304	2100346bps	47	68997us	60													
+Node496	Node303	2743891bps	36	58523us	78													
+Node115	Node308	13472560bps	7	7466us	383													
+Node115	Node307	19326464bps	5	9331us	550													
+Node115	Node117	43881834bps	2	6941us	1247													
+Node115	Node118	84817321bps	1	8341us	2410													
+Node116	Node295	13783117bps	7	5476us	392													
+Node116	Node264	12643011bps	7	6296us	360													
+Node116	Node265	15795933bps	6	8538us	449													
+Node116	Node266	14802870bps	6	9712us	421													
+Node497	Node261	2791309bps	35	19052us	80													
+Node497	Node267	1465687bps	68	63401us	42													
+Node106	Node101	44203441bps	2	9659us	1256													
+Node106	Node257	11127988bps	8	6788us	317													
+Node106	Node261	14429249bps	6	9550us	410													
+Node106	Node267	15361420bps	6	9407us	437													
+Node101	Node267	17085069bps	5	8222us	486													
+Node121	Node230	14017156bps	7	6268us	399													
+Node121	Node257	17442395bps	5	5715us	496													
+Node121	Node119	95248178bps	1	8534us	2706													
+Node121	Node120	50197208bps	1	8529us	1427													
+Node121	Node122	99137143bps	1	5934us	2817													
+Node121	Node290	14834295bps	6	7031us	422													
+Node500	Node242	1463625bps	68	57562us	42													
+Node500	Node243	1202013bps	83	55541us	35													
+Node502	Node242	2038598bps	49	64084us	58													
+Node502	Node243	1856953bps	53	54793us	53													
+Node501	Node242	2413618bps	41	45840us	69													
+Node501	Node243	2903284bps	34	64838us	83													
+Node498	Node242	1824081bps	54	43825us	52													
+Node498	Node243	1043263bps	95	58405us	30													
+Node505	Node242	1170455bps	85	33636us	34													
+Node505	Node243	2032463bps	49	32178us	58													
+Node499	Node242	1216055bps	82	64118us	35													
+Node499	Node243	1002987bps	99	18917us	29													
+Node507	Node242	1502944bps	66	38786us	43													
+Node507	Node243	1168461bps	85	18848us	34													
+Node508	Node242	2563113bps	39	47725us	73													
+Node503	Node242	2698776bps	37	10464us	77													
+Node503	Node243	1115319bps	89	34444us	32													
+Node506	Node242	1314977bps	76	17266us	38													
+Node506	Node243	1104032bps	90	40951us	32													
+Node509	Node242	2674208bps	37	50758us	76													
+Node509	Node243	1698191bps	58	27417us	49													
+Node123	Node27	42685074bps	2	7621us	1213													
+Node123	Node28	98512005bps	1	8694us	2799													
+Node123	Node32	87525553bps	1	5800us	2487													
+Node123	Node33	64869706bps	1	6678us	1843													
+Node124	Node27	71958431bps	1	7889us	2045													
+Node124	Node28	76538227bps	1	6842us	2175													
+Node124	Node32	46177807bps	2	5756us	1312													
+Node124	Node33	82433847bps	1	5099us	2342													
+Node242	Node229	16218226bps	6	6446us	461													
+Node242	Node510	2807728bps	35	43127us	80													
+Node242	Node119	14474226bps	6	6780us	412													
+Node242	Node120	12400992bps	8	7176us	353													
+Node242	Node122	15718928bps	6	7279us	447													
+Node242	Node290	16452937bps	6	6228us	468													
+Node242	Node309	16690751bps	5	8225us	475													
+Node242	Node511	2237584bps	44	49085us	64													
+Node242	Node512	1445580bps	69	37468us	42													
+Node242	Node513	1298592bps	77	37402us	37													
+Node243	Node257	18433789bps	5	7953us	524													
+Node243	Node105	14797626bps	6	5869us	421													
+Node243	Node510	1989163bps	50	55020us	57													
+Node243	Node119	17992243bps	5	6280us	512													
+Node243	Node120	19777498bps	5	9099us	562													
+Node243	Node122	19484124bps	5	8360us	554													
+Node243	Node290	16220124bps	6	8491us	461													
+Node243	Node309	16965951bps	5	7618us	482													
+Node243	Node511	1462862bps	68	14862us	42													
+Node243	Node512	1273517bps	78	58337us	37													
+Node243	Node513	1680207bps	59	15952us	48													
+Node229	Node105	11929520bps	8	7197us	339													
+Node229	Node28	11135203bps	8	6910us	317													
+Node229	Node33	10288068bps	9	5997us	293													
+Node229	Node514	2221113bps	45	57848us	64													
+Node229	Node104	18010228bps	5	5278us	512													
+Node229	Node108	19917875bps	5	6429us	566													
+Node229	Node107	19950717bps	5	7802us	567													
+Node229	Node127	12534663bps	7	5347us	357													
+Node230	Node104	13563982bps	7	5976us	386													
+Node230	Node127	10528453bps	9	8728us	300													
+Node230	Node125	17326604bps	5	9538us	493													
+Node257	Node28	15264986bps	6	7962us	434													
+Node257	Node33	11888822bps	8	9423us	338													
+Node257	Node290	16926656bps	5	6543us	481													
+Node257	Node515	2858160bps	34	31596us	82													
+Node257	Node310	12461741bps	8	8508us	355													
+Node105	Node310	19543903bps	5	8751us	556													
+Node27	Node119	84603356bps	1	9757us	2404													
+Node27	Node120	51246651bps	1	7518us	1456													
+Node27	Node122	52641295bps	1	9769us	1496													
+Node27	Node290	18564608bps	5	9869us	528													
+Node27	Node309	13764596bps	7	6610us	392													
+Node27	Node129	55937253bps	1	8919us	1590													
+Node27	Node130	85676240bps	1	8681us	2434													
+Node27	Node95	65884847bps	1	5851us	1872													
+Node27	Node131	61899942bps	1	7528us	1759													
+Node28	Node120	65770946bps	1	7941us	1869													
+Node28	Node290	16784423bps	5	5345us	477													
+Node28	Node309	16074677bps	6	8184us	457													
+Node28	Node129	97326963bps	1	6478us	2765													
+Node28	Node130	40949096bps	2	8019us	1164													
+Node28	Node131	93861420bps	1	5820us	2667													
+Node32	Node120	96936935bps	1	7794us	2754													
+Node32	Node122	40788212bps	2	9548us	1159													
+Node32	Node290	10195975bps	9	7775us	290													
+Node32	Node309	17307635bps	5	7447us	492													
+Node32	Node129	71656128bps	1	9853us	2036													
+Node32	Node130	89301170bps	1	7987us	2537													
+Node32	Node131	97475528bps	1	7720us	2770													
+Node33	Node119	63469102bps	1	5479us	1804													
+Node33	Node290	10126028bps	9	8695us	288													
+Node33	Node309	15196933bps	6	6230us	432													
+Node33	Node129	98411633bps	1	8752us	2796													
+Node33	Node130	70640271bps	1	9522us	2007													
+Node33	Node131	79524369bps	1	8375us	2260													
+Node514	Node290	1631499bps	61	59458us	47													
+Node514	Node309	1436125bps	69	51489us	41													
+Node120	Node290	14078590bps	7	5939us	400													
+Node290	Node310	17572993bps	5	9323us	500													
+Node290	Node308	16171839bps	6	7083us	460													
+Node290	Node295	11788410bps	8	6922us	335													
+Node290	Node94	13772033bps	7	6756us	392													
+Node290	Node95	11562403bps	8	5492us	329													
+Node290	Node513	1811471bps	55	58080us	52													
+Node309	Node310	13849659bps	7	8925us	394													
+Node309	Node94	17315971bps	5	9875us	492													
+Node309	Node95	17509795bps	5	5207us	498													
+Node309	Node96	19371961bps	5	6274us	551													
+Node128	Node308	14088178bps	7	7694us	401													
+Node128	Node307	14918361bps	6	5786us	424													
+Node128	Node117	42403312bps	2	7452us	1205													
+Node128	Node118	71529690bps	1	9350us	2033													
+Node132	Node308	14345594bps	6	7860us	408													
+Node132	Node307	14800261bps	6	8281us	421													
+Node132	Node117	93180281bps	1	6536us	2648													
+Node132	Node118	61490479bps	1	7669us	1747													
+Node520	Node304	2615925bps	38	23454us	75													
+Node520	Node303	1318957bps	75	68294us	38													
+Node519	Node304	2187169bps	45	11605us	63													
+Node519	Node303	2955265bps	33	15007us	84													
+Node516	Node311	2266984bps	44	38215us	65													
+Node516	Node313	1000507bps	99	67700us	29													
+Node312	Node314	10023709bps	9	9947us	285													
+Node312	Node311	11290671bps	8	7239us	321													
+Node312	Node521	1351648bps	73	57630us	39													
+Node312	Node313	12657685bps	7	5355us	360													
+Node522	Node313	1536234bps	65	53696us	44													
+Node518	Node311	2826829bps	35	51528us	81													
+Node133	Node295	11701366bps	8	7665us	333													
+Node133	Node264	13090418bps	7	5660us	372													
+Node133	Node265	11912299bps	8	7908us	339													
+Node133	Node266	12317301bps	8	7684us	350													
+Node135	Node275	12364895bps	8	5777us	352													
+Node135	Node277	16837143bps	5	6606us	479													
+Node135	Node71	66598901bps	1	7597us	1893													
+Node135	Node72	89798932bps	1	5632us	2552													
+Node135	Node73	75049425bps	1	8327us	2133													
+Node135	Node279	14626637bps	6	8119us	416													
+Node135	Node137	85421293bps	1	9607us	2427													
+Node135	Node280	17352191bps	5	5855us	493													
+Node135	Node74	96083673bps	1	5089us	2730													
+Node135	Node281	16412794bps	6	6858us	467													
+Node135	Node75	67855946bps	1	5078us	1928													
+Node135	Node76	53517707bps	1	7344us	1521													
+Node134	Node136	72891163bps	1	5575us	2071													
+Node134	Node6	56300027bps	1	7879us	1600													
+Node134	Node280	11808259bps	8	5998us	336													
+Node134	Node74	71118068bps	1	5467us	2021													
+Node134	Node76	64592211bps	1	5671us	1836													
+Node3	Node138	44821879bps	2	6199us	1274													
+Node3	Node6	48733734bps	2	7463us	1385													
+Node3	Node139	68772441bps	1	7495us	1954													
+Node3	Node275	10209184bps	9	7934us	291													
+Node3	Node71	97231254bps	1	9590us	2763													
+Node3	Node72	58914928bps	1	7707us	1674													
+Node3	Node73	70404238bps	1	7766us	2001													
+Node3	Node279	17542840bps	5	6132us	499													
+Node3	Node74	64571693bps	1	7477us	1835													
+Node3	Node75	91929448bps	1	6630us	2612													
+Node3	Node76	83239546bps	1	5764us	2365													
+Node4	Node126	75516058bps	1	6739us	2146													
+Node4	Node275	19848017bps	5	9735us	564													
+Node4	Node277	15580189bps	6	7594us	443													
+Node4	Node71	82786388bps	1	5618us	2352													
+Node4	Node72	67746355bps	1	7201us	1925													
+Node4	Node73	61963396bps	1	7695us	1761													
+Node5	Node275	19861498bps	5	8892us	565													
+Node5	Node71	72736714bps	1	5166us	2067													
+Node5	Node72	75464181bps	1	8555us	2144													
+Node5	Node73	68273892bps	1	9288us	1940													
+Node5	Node279	14102490bps	7	9603us	401													
+Node5	Node280	16056710bps	6	7833us	457													
+Node5	Node74	45460868bps	2	5097us	1292													
+Node5	Node75	43823687bps	2	8374us	1245													
+Node5	Node76	49936463bps	2	6638us	1419													
+Node138	Node141	70789647bps	1	9613us	2012													
+Node138	Node9	64315565bps	1	5840us	1828													
+Node138	Node10	47820493bps	2	9049us	1359													
+Node138	Node126	76747526bps	1	6940us	2181													
+Node138	Node142	86280215bps	1	7297us	2452													
+Node138	Node12	53081666bps	1	9731us	1509													
+Node138	Node143	83088016bps	1	5498us	2361													
+Node138	Node275	19099298bps	5	9563us	543													
+Node138	Node277	10682514bps	9	9994us	304													
+Node138	Node71	45322508bps	2	6462us	1288													
+Node138	Node72	46184216bps	2	8429us	1313													
+Node138	Node73	42774726bps	2	6092us	1216													
+Node138	Node279	14356545bps	6	7808us	408													
+Node138	Node75	48637555bps	2	5497us	1382													
+Node140	Node275	14188588bps	7	7895us	404													
+Node140	Node72	77203809bps	1	6397us	2194													
+Node140	Node73	78568176bps	1	9481us	2233													
+Node140	Node279	14725395bps	6	7022us	419													
+Node140	Node76	93262963bps	1	8469us	2650													
+Node136	Node9	88971607bps	1	8621us	2528													
+Node136	Node10	96222904bps	1	5108us	2734													
+Node136	Node126	61299937bps	1	8719us	1742													
+Node136	Node142	46051865bps	2	8455us	1309													
+Node136	Node12	94826796bps	1	5082us	2694													
+Node136	Node143	46261050bps	2	8414us	1315													
+Node136	Node277	14846098bps	6	6882us	422													
+Node136	Node71	45630538bps	2	5827us	1297													
+Node136	Node72	42062925bps	2	7294us	1195													
+Node136	Node73	76684410bps	1	9208us	2179													
+Node136	Node75	64417002bps	1	8266us	1831													
+Node144	Node275	19857452bps	5	8065us	565													
+Node144	Node71	70296901bps	1	9261us	1998													
+Node144	Node72	88527026bps	1	9361us	2515													
+Node144	Node73	45516393bps	2	6540us	1294													
+Node144	Node279	19708780bps	5	6654us	560													
+Node144	Node280	14700572bps	6	6342us	418													
+Node144	Node74	66447590bps	1	9947us	1888													
+Node144	Node75	86709900bps	1	7049us	2464													
+Node144	Node76	79163156bps	1	9392us	2249													
+Node6	Node9	68952196bps	1	5810us	1959													
+Node6	Node10	81024978bps	1	8555us	2302													
+Node6	Node126	51210285bps	1	7422us	1455													
+Node6	Node142	56875397bps	1	7078us	1616													
+Node6	Node12	77274377bps	1	7630us	2196													
+Node6	Node143	44190960bps	2	6613us	1256													
+Node6	Node72	97494110bps	1	6827us	2770													
+Node6	Node73	59113681bps	1	9402us	1680													
+Node6	Node279	19559921bps	5	6646us	556													
+Node6	Node75	73111006bps	1	7581us	2078													
+Node7	Node71	42091438bps	2	8582us	1196													
+Node7	Node72	81012398bps	1	6970us	2302													
+Node7	Node73	58078688bps	1	6719us	1650													
+Node7	Node279	17365728bps	5	6167us	494													
+Node7	Node280	19217677bps	5	6362us	546													
+Node7	Node74	45895969bps	2	6126us	1304													
+Node7	Node75	83463391bps	1	8593us	2372													
+Node7	Node76	47727599bps	2	5855us	1356													
+Node8	Node9	91834634bps	1	6595us	2609													
+Node8	Node10	56110782bps	1	8722us	1595													
+Node8	Node126	94790836bps	1	5440us	2693													
+Node8	Node142	64747689bps	1	7020us	1840													
+Node8	Node12	94115115bps	1	8772us	2674													
+Node8	Node143	94447167bps	1	8218us	2684													
+Node8	Node71	46225453bps	2	6820us	1314													
+Node8	Node72	82983198bps	1	6722us	2358													
+Node8	Node73	55368086bps	1	8939us	1573													
+Node8	Node279	10098166bps	9	8110us	287													
+Node8	Node75	41918763bps	2	6227us	1191													
+Node145	Node277	18162747bps	5	7963us	516													
+Node145	Node71	44565103bps	2	5143us	1267													
+Node145	Node72	57646914bps	1	5958us	1638													
+Node145	Node73	89760348bps	1	9032us	2551													
+Node145	Node280	14141120bps	7	9273us	402													
+Node145	Node74	44282765bps	2	6624us	1259													
+Node145	Node75	93554802bps	1	9810us	2658													
+Node145	Node76	74670845bps	1	8936us	2122													
+Node141	Node126	47348095bps	2	6406us	1346													
+Node141	Node139	54640993bps	1	5580us	1553													
+Node141	Node275	10025140bps	9	6568us	285													
+Node141	Node71	96412029bps	1	9886us	2739													
+Node141	Node72	90804580bps	1	8076us	2580													
+Node141	Node73	97380874bps	1	5374us	2767													
+Node147	Node233	10259004bps	9	9620us	292													
+Node147	Node234	10028294bps	9	9838us	285													
+Node147	Node235	11115238bps	8	9380us	316													
+Node147	Node236	17453555bps	5	8143us	496													
+Node146	Node233	13629490bps	7	8004us	388													
+Node146	Node234	18398510bps	5	9679us	523													
+Node146	Node235	10951081bps	9	6597us	312													
+Node146	Node236	12077698bps	8	7261us	344													
+Node9	Node139	68112497bps	1	8627us	1936													
+Node9	Node71	62561079bps	1	7449us	1778													
+Node9	Node72	85099731bps	1	7008us	2418													
+Node9	Node73	49441921bps	2	7930us	1405													
+Node9	Node279	10352825bps	9	8904us	295													
+Node9	Node74	96616161bps	1	9750us	2745													
+Node9	Node75	58645382bps	1	9452us	1667													
+Node9	Node76	84945245bps	1	7017us	2414													
+Node9	Node235	12089005bps	8	7749us	344													
+Node10	Node71	59522212bps	1	7056us	1691													
+Node10	Node72	41706727bps	2	7455us	1185													
+Node10	Node73	55117690bps	1	7366us	1566													
+Node10	Node279	17541905bps	5	7583us	499													
+Node10	Node74	81790772bps	1	8379us	2324													
+Node10	Node75	51878614bps	1	7472us	1474													
+Node10	Node76	73928062bps	1	9265us	2101													
+Node10	Node235	12585311bps	7	8138us	358													
+Node126	Node148	78546686bps	1	9563us	2232													
+Node126	Node149	67373362bps	1	6650us	1915													
+Node126	Node14	49107455bps	2	8608us	1396													
+Node126	Node150	80228465bps	1	6526us	2280													
+Node126	Node139	43299031bps	2	8815us	1231													
+Node126	Node275	16641296bps	6	7871us	473													
+Node126	Node280	13275140bps	7	6492us	378													
+Node126	Node74	97534567bps	1	9587us	2771													
+Node126	Node234	17507534bps	5	8994us	498													
+Node126	Node235	18430203bps	5	8884us	524													
+Node126	Node236	19664378bps	5	9292us	559													
+Node11	Node275	19549927bps	5	9524us	556													
+Node11	Node72	97414141bps	1	5596us	2768													
+Node11	Node73	77005903bps	1	9709us	2188													
+Node11	Node279	19007909bps	5	8509us	540													
+Node11	Node280	15716193bps	6	5793us	447													
+Node11	Node74	46111088bps	2	9800us	1310													
+Node11	Node75	78180821bps	1	8648us	2222													
+Node11	Node76	91570342bps	1	9310us	2602													
+Node11	Node228	19706771bps	5	5471us	560													
+Node142	Node148	79999269bps	1	9974us	2273													
+Node142	Node149	98445492bps	1	9506us	2797													
+Node142	Node14	86131423bps	1	8139us	2447													
+Node142	Node150	76084224bps	1	5720us	2162													
+Node142	Node139	47762882bps	2	8760us	1357													
+Node142	Node275	19299894bps	5	7066us	549													
+Node142	Node277	13333518bps	7	7360us	379													
+Node142	Node280	13305993bps	7	7808us	379													
+Node142	Node281	11842270bps	8	8603us	337													
+Node142	Node233	11361809bps	8	8084us	323													
+Node12	Node149	60298682bps	1	5104us	1714													
+Node12	Node139	80202858bps	1	7363us	2279													
+Node12	Node277	16471974bps	6	6992us	468													
+Node12	Node71	78677335bps	1	7530us	2236													
+Node12	Node72	91674418bps	1	6584us	2605													
+Node12	Node73	78426059bps	1	6218us	2229													
+Node12	Node279	14526810bps	6	8067us	413													
+Node12	Node280	16428538bps	6	6107us	467													
+Node12	Node74	70315099bps	1	5321us	1998													
+Node12	Node75	47172906bps	2	7485us	1341													
+Node12	Node76	93671789bps	1	5941us	2662													
+Node143	Node148	60446880bps	1	6363us	1718													
+Node143	Node149	41751449bps	2	7213us	1187													
+Node143	Node150	47454689bps	2	7300us	1349													
+Node143	Node139	48671506bps	2	6442us	1383													
+Node143	Node277	17597395bps	5	7397us	500													
+Node143	Node72	88597637bps	1	5602us	2517													
+Node143	Node74	76229834bps	1	9418us	2166													
+Node143	Node233	11988939bps	8	7887us	341													
+Node148	Node275	18069377bps	5	9650us	514													
+Node148	Node277	16153621bps	6	7019us	459													
+Node148	Node71	73324132bps	1	7436us	2084													
+Node148	Node72	87932592bps	1	9370us	2499													
+Node148	Node73	49329877bps	2	8021us	1402													
+Node148	Node280	11804411bps	8	9139us	336													
+Node148	Node74	73349736bps	1	8242us	2084													
+Node148	Node75	54716796bps	1	6317us	1555													
+Node148	Node76	85936001bps	1	5283us	2442													
+Node149	Node275	10067030bps	9	5924us	286													
+Node149	Node71	72390816bps	1	8767us	2057													
+Node149	Node72	89289822bps	1	5852us	2537													
+Node149	Node73	97296031bps	1	5071us	2765													
+Node149	Node75	69263270bps	1	8771us	1968													
+Node13	Node275	16223164bps	6	6298us	461													
+Node13	Node277	17707358bps	5	9208us	504													
+Node13	Node72	88726323bps	1	5303us	2521													
+Node13	Node73	81702238bps	1	5793us	2322													
+Node13	Node279	12068825bps	8	6207us	343													
+Node13	Node280	13542725bps	7	5406us	385													
+Node13	Node74	83442388bps	1	5205us	2371													
+Node13	Node76	45674769bps	2	5253us	1298													
+Node14	Node275	15109480bps	6	8411us	430													
+Node14	Node72	51249529bps	1	7003us	1456													
+Node14	Node73	79020884bps	1	6946us	2245													
+Node14	Node75	60754252bps	1	8696us	1726													
+Node151	Node71	84227986bps	1	9840us	2393													
+Node151	Node72	55819261bps	1	5529us	1586													
+Node151	Node73	80240711bps	1	6937us	2280													
+Node151	Node74	68964810bps	1	7651us	1960													
+Node151	Node75	83286405bps	1	9805us	2367													
+Node151	Node76	87046333bps	1	7139us	2473													
+Node150	Node275	10874187bps	9	5810us	309													
+Node150	Node277	19763009bps	5	5523us	562													
+Node150	Node72	85521429bps	1	9367us	2430													
+Node150	Node73	52764756bps	1	9747us	1499													
+Node152	Node275	19636706bps	5	8437us	558													
+Node152	Node71	59987030bps	1	7421us	1705													
+Node152	Node72	52099487bps	1	8936us	1481													
+Node152	Node73	93648171bps	1	9221us	2661													
+Node152	Node74	54020726bps	1	7123us	1535													
+Node152	Node76	57303786bps	1	9941us	1628													
+Node152	Node17	76722127bps	1	5355us	2180													
+Node15	Node275	13274191bps	7	8149us	378													
+Node15	Node277	13399908bps	7	6811us	381													
+Node15	Node71	97864042bps	1	8367us	2781													
+Node15	Node72	95384952bps	1	6797us	2710													
+Node15	Node73	51547698bps	1	7606us	1465													
+Node15	Node279	18531812bps	5	9615us	527													
+Node15	Node75	42105190bps	2	9784us	1197													
+Node139	Node275	12856011bps	7	6808us	366													
+Node139	Node277	14193987bps	7	7697us	404													
+Node139	Node72	99932144bps	1	7732us	2839													
+Node139	Node73	96721848bps	1	9816us	2748													
+Node139	Node280	18790845bps	5	9951us	534													
+Node139	Node74	61100928bps	1	9133us	1736													
+Node139	Node281	18071862bps	5	8473us	514													
+Node139	Node75	76662485bps	1	7882us	2178													
+Node139	Node76	58218246bps	1	5394us	1654													
+Node139	Node87	67457052bps	1	6779us	1917													
+Node16	Node275	18056204bps	5	9951us	513													
+Node16	Node277	12179431bps	8	6122us	347													
+Node16	Node71	56316531bps	1	8730us	1600													
+Node16	Node72	55433516bps	1	9152us	1575													
+Node16	Node73	59968515bps	1	7481us	1704													
+Node16	Node137	97502164bps	1	5717us	2770													
+Node16	Node280	19290043bps	5	8514us	549													
+Node16	Node74	82814664bps	1	7437us	2353													
+Node16	Node281	18446576bps	5	9689us	525													
+Node16	Node75	48632386bps	2	9804us	1382													
+Node16	Node76	40308592bps	2	5697us	1146													
+Node16	Node228	12251862bps	8	6301us	349													
+Node524	Node233	2824190bps	35	53306us	81													
+Node524	Node234	2951452bps	33	39887us	84													
+Node315	Node233	12664555bps	7	8520us	360													
+Node315	Node234	16526143bps	6	7119us	470													
+Node315	Node235	15691884bps	6	6085us	446													
+Node315	Node236	18622907bps	5	5842us	530													
+Node315	Node525	1760117bps	56	57722us	51													
+Node526	Node228	2787697bps	35	63870us	80													
+Node275	Node17	11232504bps	8	7550us	320													
+Node275	Node18	10447277bps	9	9867us	297													
+Node275	Node527	2275677bps	43	61540us	65													
+Node275	Node156	18255213bps	5	6836us	519													
+Node275	Node157	13648473bps	7	5555us	388													
+Node275	Node158	15373911bps	6	7481us	437													
+Node275	Node19	15447545bps	6	8872us	439													
+Node275	Node159	17567603bps	5	7098us	500													
+Node275	Node20	13979660bps	7	8962us	398													
+Node275	Node21	13550715bps	7	6953us	385													
+Node275	Node160	10772122bps	9	6121us	307													
+Node275	Node161	17510083bps	5	7227us	498													
+Node275	Node22	10801613bps	9	5364us	307													
+Node277	Node17	14562202bps	6	8079us	414													
+Node277	Node18	15816150bps	6	9892us	450													
+Node277	Node527	2160811bps	46	49813us	62													
+Node277	Node156	16862724bps	5	9798us	480													
+Node277	Node19	10163204bps	9	7663us	289													
+Node277	Node159	10392659bps	9	9053us	296													
+Node277	Node21	11273774bps	8	8719us	321													
+Node277	Node160	17900283bps	5	8943us	509													
+Node277	Node161	12809930bps	7	6722us	364													
+Node277	Node22	14659381bps	6	7515us	417													
+Node71	Node17	43352919bps	2	8251us	1232													
+Node71	Node18	87620369bps	1	6849us	2490													
+Node71	Node156	72800605bps	1	7356us	2069													
+Node71	Node157	61948189bps	1	7068us	1760													
+Node71	Node158	41544326bps	2	8986us	1181													
+Node71	Node19	82859379bps	1	5077us	2354													
+Node71	Node228	11946525bps	8	8771us	340													
+Node71	Node20	44094669bps	2	6266us	1253													
+Node71	Node21	97474006bps	1	6549us	2770													
+Node71	Node160	55477211bps	1	9714us	1577													
+Node71	Node161	82541567bps	1	8367us	2345													
+Node71	Node22	63462951bps	1	9885us	1803													
+Node72	Node87	90110253bps	1	9928us	2560													
+Node72	Node17	93191135bps	1	8500us	2648													
+Node72	Node156	88962344bps	1	9641us	2528													
+Node72	Node157	42562379bps	2	5432us	1210													
+Node72	Node158	55265717bps	1	9244us	1571													
+Node72	Node19	45779762bps	2	9480us	1301													
+Node72	Node228	18745947bps	5	6241us	533													
+Node72	Node163	52285136bps	1	8392us	1486													
+Node72	Node20	66345148bps	1	9529us	1885													
+Node72	Node21	81949557bps	1	6786us	2329													
+Node72	Node160	77668878bps	1	8228us	2207													
+Node72	Node161	64491720bps	1	8173us	1833													
+Node72	Node22	73514267bps	1	5620us	2089													
+Node72	Node164	79346989bps	1	6185us	2255													
+Node73	Node74	78811246bps	1	9638us	2239													
+Node73	Node17	66429001bps	1	9866us	1888													
+Node73	Node156	71288635bps	1	5918us	2026													
+Node73	Node157	47671006bps	2	7746us	1355													
+Node73	Node158	77881664bps	1	6341us	2213													
+Node73	Node163	41701799bps	2	8778us	1185													
+Node73	Node159	74076270bps	1	5003us	2105													
+Node73	Node20	82346503bps	1	9134us	2340													
+Node73	Node21	61163284bps	1	7580us	1738													
+Node73	Node160	98017765bps	1	6450us	2785													
+Node73	Node161	75253584bps	1	9969us	2138													
+Node73	Node22	54425255bps	1	7558us	1547													
+Node279	Node17	13239599bps	7	6988us	377													
+Node279	Node18	10026364bps	9	9424us	285													
+Node279	Node527	1310826bps	76	51868us	38													
+Node279	Node19	11536374bps	8	9678us	328													
+Node279	Node159	13518044bps	7	6695us	385													
+Node279	Node20	14098129bps	7	5085us	401													
+Node279	Node160	12407955bps	8	6341us	353													
+Node279	Node161	17185495bps	5	9283us	489													
+Node279	Node22	10030830bps	9	6397us	285													
+Node137	Node20	40329875bps	2	6631us	1146													
+Node137	Node161	86643312bps	1	9063us	2462													
+Node137	Node22	80272127bps	1	6971us	2281													
+Node280	Node87	16422989bps	6	8564us	467													
+Node280	Node67	14549723bps	6	6372us	414													
+Node280	Node528	1638003bps	61	46362us	47													
+Node280	Node156	13359998bps	7	5364us	380													
+Node280	Node158	16427549bps	6	5568us	467													
+Node280	Node19	17640353bps	5	6679us	502													
+Node280	Node228	19445324bps	5	7067us	553													
+Node280	Node159	14647511bps	6	6044us	417													
+Node280	Node20	18743664bps	5	8905us	533													
+Node280	Node21	12875775bps	7	8532us	366													
+Node280	Node160	16134649bps	6	8409us	459													
+Node280	Node161	14464746bps	6	9069us	411													
+Node280	Node22	13281211bps	7	7694us	378													
+Node74	Node87	60170527bps	1	6273us	1710													
+Node74	Node67	51825315bps	1	6101us	1473													
+Node74	Node156	84765823bps	1	5603us	2409													
+Node74	Node158	79363102bps	1	5482us	2255													
+Node74	Node19	46846305bps	2	5910us	1331													
+Node74	Node228	14323184bps	6	9781us	407													
+Node74	Node20	59940045bps	1	7001us	1703													
+Node74	Node21	72133168bps	1	6528us	2050													
+Node74	Node160	47238055bps	2	5248us	1342													
+Node74	Node161	98390797bps	1	9403us	2796													
+Node74	Node22	41616463bps	2	9017us	1183													
+Node281	Node87	16322794bps	6	9084us	464													
+Node281	Node67	15117255bps	6	8692us	430													
+Node281	Node528	2608069bps	38	36752us	75													
+Node281	Node156	18074011bps	5	8533us	514													
+Node281	Node158	19953182bps	5	6767us	567													
+Node281	Node19	17310313bps	5	5067us	492													
+Node281	Node159	12839572bps	7	6998us	365													
+Node281	Node20	18062691bps	5	6109us	514													
+Node281	Node21	10364092bps	9	9418us	295													
+Node281	Node160	15453465bps	6	9276us	440													
+Node281	Node22	12797770bps	7	8343us	364													
+Node75	Node87	46323338bps	2	8396us	1317													
+Node75	Node17	41525270bps	2	5903us	1180													
+Node75	Node18	92109343bps	1	9359us	2617													
+Node75	Node67	44566211bps	2	9665us	1267													
+Node75	Node19	41121206bps	2	7608us	1169													
+Node75	Node228	17977134bps	5	8815us	511													
+Node75	Node159	69288716bps	1	6406us	1969													
+Node75	Node20	40174012bps	2	6482us	1142													
+Node75	Node21	87584174bps	1	8103us	2489													
+Node75	Node160	92752012bps	1	9227us	2636													
+Node75	Node161	56442404bps	1	5197us	1604													
+Node75	Node22	87721620bps	1	9500us	2493													
+Node76	Node87	40711587bps	2	9528us	1157													
+Node76	Node17	57167728bps	1	7961us	1625													
+Node76	Node18	61128213bps	1	6840us	1737													
+Node76	Node156	65708893bps	1	5220us	1867													
+Node76	Node158	89470392bps	1	9065us	2542													
+Node76	Node19	66393021bps	1	8327us	1887													
+Node76	Node228	11297975bps	8	9533us	321													
+Node76	Node163	44617036bps	2	8606us	1268													
+Node76	Node159	79984707bps	1	7597us	2273													
+Node76	Node20	45179259bps	2	7403us	1284													
+Node76	Node21	74946957bps	1	7736us	2130													
+Node76	Node160	76808095bps	1	7540us	2183													
+Node76	Node161	56882723bps	1	8434us	1616													
+Node76	Node22	98079872bps	1	5202us	2787													
+Node87	Node67	42693968bps	2	6242us	1213													
+Node87	Node234	10073900bps	9	7831us	287													
+Node87	Node236	19127368bps	5	5924us	544													
+Node87	Node162	77257202bps	1	9371us	2195													
+Node87	Node156	90447663bps	1	9564us	2570													
+Node87	Node226	17054835bps	5	6531us	485													
+Node87	Node164	59624556bps	1	7758us	1694													
+Node87	Node223	17669019bps	5	8809us	502													
+Node17	Node67	72531294bps	1	5135us	2061													
+Node17	Node233	14727884bps	6	9812us	419													
+Node17	Node236	16854463bps	5	9553us	479													
+Node17	Node162	86853020bps	1	9811us	2468													
+Node17	Node226	11627220bps	8	8430us	331													
+Node17	Node164	79127207bps	1	7816us	2248													
+Node17	Node223	11020986bps	9	5095us	314													
+Node17	Node227	10208297bps	9	7705us	291													
+Node18	Node236	12042057bps	8	5215us	343													
+Node18	Node292	13914835bps	7	7405us	396													
+Node65	Node233	18176443bps	5	8469us	517													
+Node65	Node234	17084384bps	5	9370us	486													
+Node65	Node292	17985642bps	5	8689us	511													
+Node67	Node292	13733530bps	7	8313us	391													
+Node67	Node164	67393916bps	1	7738us	1915													
+Node233	Node19	12445705bps	8	5530us	354													
+Node233	Node228	15344378bps	6	5995us	436													
+Node233	Node159	15510031bps	6	5834us	441													
+Node233	Node165	13246920bps	7	7734us	377													
+Node233	Node166	12370242bps	8	9330us	352													
+Node233	Node167	16297147bps	6	7984us	463													
+Node233	Node168	11771352bps	8	5532us	335													
+Node233	Node169	16501319bps	6	8576us	469													
+Node233	Node170	14041714bps	7	6117us	399													
+Node234	Node19	17621888bps	5	9287us	501													
+Node234	Node228	11243605bps	8	9540us	320													
+Node234	Node159	13640095bps	7	5698us	388													
+Node234	Node532	1186725bps	84	49339us	34													
+Node234	Node165	19933336bps	5	5374us	567													
+Node234	Node166	19363451bps	5	7522us	551													
+Node234	Node167	16364895bps	6	9410us	465													
+Node234	Node168	11253843bps	8	6164us	320													
+Node234	Node169	19237546bps	5	7146us	547													
+Node234	Node170	15271529bps	6	6349us	434													
+Node235	Node163	19256581bps	5	5277us	548													
+Node235	Node159	19402828bps	5	7329us	552													
+Node235	Node532	2171596bps	46	35607us	62													
+Node235	Node165	14740111bps	6	7605us	419													
+Node235	Node166	18968317bps	5	9511us	539													
+Node235	Node167	15618466bps	6	5077us	444													
+Node235	Node168	17679603bps	5	6094us	503													
+Node235	Node169	16779888bps	5	8750us	477													
+Node235	Node170	10818482bps	9	8923us	308													
+Node236	Node19	17669216bps	5	9430us	502													
+Node236	Node228	16553786bps	6	7602us	471													
+Node236	Node159	12302148bps	8	5659us	350													
+Node236	Node532	2724055bps	36	18142us	78													
+Node236	Node165	18349838bps	5	8908us	522													
+Node236	Node166	18355093bps	5	8597us	522													
+Node236	Node167	15558387bps	6	7796us	442													
+Node236	Node168	18859369bps	5	9585us	536													
+Node236	Node169	17431745bps	5	7967us	496													
+Node236	Node170	13726323bps	7	7376us	390													
+Node236	Node164	14712786bps	6	8593us	418													
+Node162	Node19	70812823bps	1	5106us	2012													
+Node162	Node228	10291327bps	9	7119us	293													
+Node162	Node164	89012980bps	1	5223us	2529													
+Node19	Node163	72523614bps	1	6823us	2061													
+Node19	Node159	98571770bps	1	6277us	2801													
+Node228	Node159	15921320bps	6	5108us	453													
+Node228	Node94	14328069bps	6	9084us	408													
+Node171	Node30	41300082bps	2	7322us	1174													
+Node171	Node31	74478499bps	1	9952us	2116													
+Node171	Node35	91344741bps	1	6315us	2596													
+Node171	Node36	65395991bps	1	6370us	1858													
+Node531	Node303	2574267bps	38	39925us	74													
+Node529	Node304	2415070bps	41	26376us	69													
+Node529	Node303	1795694bps	55	68190us	52													
+Node172	Node316	19191473bps	5	6186us	546													
+Node172	Node173	99463406bps	1	8807us	2826													
+Node172	Node175	58441652bps	1	6618us	1661													
+Node172	Node317	13474955bps	7	9262us	383													
+Node172	Node220	18147298bps	5	8904us	516													
+Node172	Node176	73772150bps	1	6342us	2096													
+Node177	Node308	12926176bps	7	6374us	368													
+Node177	Node307	13171321bps	7	9570us	375													
+Node177	Node117	55279442bps	1	9339us	1571													
+Node177	Node118	67825315bps	1	6975us	1927													
+Node174	Node295	16736103bps	5	7265us	476													
+Node174	Node264	17431535bps	5	6461us	496													
+Node174	Node265	15993776bps	6	7981us	455													
+Node174	Node266	16993827bps	5	8225us	483													
+Node174	Node223	11112769bps	8	8147us	316													
+Node533	Node304	2218210bps	45	56132us	64													
+Node533	Node303	1899117bps	52	53096us	54													
+Node534	Node304	2483661bps	40	29789us	71													
+Node534	Node303	1341537bps	74	34655us	39													
+Node534	Node253	1703054bps	58	28249us	49													
+Node537	Node304	2243709bps	44	48498us	64													
+Node537	Node303	2924379bps	34	58242us	84													
+Node530	Node304	1461042bps	68	62351us	42													
+Node530	Node303	2495160bps	40	55167us	71													
+Node535	Node304	2789920bps	35	54582us	80													
+Node535	Node303	2781881bps	35	14815us	80													
+Node540	Node304	1302619bps	76	27218us	38													
+Node540	Node303	2039610bps	49	63371us	58													
+Node536	Node304	1749010bps	57	20737us	50													
+Node536	Node303	2074793bps	48	66161us	59													
+Node541	Node304	1196134bps	83	63729us	34													
+Node541	Node303	1321100bps	75	53774us	38													
+Node542	Node304	1051732bps	95	25813us	30													
+Node542	Node303	1876904bps	53	59619us	54													
+Node543	Node304	1208978bps	82	67865us	35													
+Node543	Node303	2540569bps	39	22606us	73													
+Node544	Node304	1553983bps	64	36895us	45													
+Node544	Node303	1504058bps	66	50591us	43													
+Node545	Node304	2956775bps	33	41431us	84													
+Node545	Node303	1536415bps	65	10176us	44													
+Node546	Node304	2131594bps	46	56338us	61													
+Node546	Node303	2623797bps	38	22361us	75													
+Node546	Node253	1264397bps	79	24153us	36													
+Node538	Node304	2086658bps	47	28849us	60													
+Node538	Node303	1728695bps	57	45849us	50													
+Node539	Node304	1436617bps	69	63414us	41													
+Node539	Node303	1973560bps	50	45648us	57													
+Node304	Node306	17962664bps	5	7951us	511													
+Node304	Node253	14108781bps	7	8299us	401													
+Node304	Node550	2535195bps	39	33586us	73													
+Node304	Node551	1496898bps	66	17098us	43													
+Node304	Node552	2751315bps	36	69363us	79													
+Node304	Node553	1709342bps	58	43305us	49													
+Node304	Node554	1236683bps	80	43220us	36													
+Node303	Node306	18389036bps	5	8375us	523													
+Node303	Node253	12343903bps	8	7686us	351													
+Node303	Node550	2455280bps	40	14681us	70													
+Node303	Node551	2935417bps	34	65322us	84													
+Node303	Node552	2093479bps	47	55591us	60													
+Node303	Node553	2681640bps	37	33010us	77													
+Node303	Node554	2590699bps	38	59258us	74													
+Node306	Node253	12309683bps	8	7005us	350													
+Node306	Node479	2426719bps	41	52166us	69													
+Node549	Node292	1268167bps	78	17305us	37													
+Node549	Node293	1526433bps	65	32865us	44													
+Node549	Node294	1552259bps	64	23674us	45													
+Node548	Node292	1971436bps	50	60129us	57													
+Node548	Node293	2133659bps	46	10551us	61													
+Node548	Node294	2485449bps	40	26494us	71													
+Node547	Node292	2323748bps	43	27473us	67													
+Node547	Node293	2934886bps	34	22954us	84													
+Node547	Node294	2269167bps	44	55962us	65													
+Node88	Node292	16312008bps	6	5185us	464													
+Node88	Node293	18137178bps	5	5399us	516													
+Node88	Node294	14157521bps	7	8430us	403													
+Node504	Node292	1123428bps	89	23017us	32													
+Node504	Node293	2631788bps	37	30154us	75													
+Node292	Node293	14807639bps	6	7953us	421													
+Node292	Node294	11100934bps	9	6756us	316													
+Node292	Node558	1216857bps	82	28893us	35													
+Node292	Node559	2059068bps	48	53463us	59													
+Node292	Node560	2678677bps	37	30117us	77													
+Node292	Node561	2721570bps	36	61984us	78													
+Node293	Node558	1037756bps	96	39362us	30													
+Node293	Node559	1610536bps	62	14006us	46													
+Node293	Node560	2916799bps	34	44121us	83													
+Node293	Node561	1784875bps	56	45600us	51													
+Node293	Node41	10473825bps	9	6741us	298													
+Node293	Node223	12876225bps	7	5074us	366													
+Node293	Node227	10220116bps	9	5979us	291													
+Node294	Node559	2651388bps	37	25918us	76													
+Node294	Node560	1713794bps	58	25373us	49													
+Node294	Node561	1702980bps	58	43073us	49													
+Node294	Node223	11235552bps	8	7967us	320													
+Node562	Node239	2156015bps	46	11121us	62													
+Node555	Node239	2605832bps	38	66211us	75													
+Node555	Node240	2810722bps	35	12945us	80													
+Node556	Node239	1675528bps	59	11115us	48													
+Node566	Node239	1069602bps	93	60301us	31													
+Node566	Node240	2755474bps	36	38454us	79													
+Node557	Node239	2474386bps	40	57576us	71													
+Node557	Node240	1946420bps	51	54071us	56													
+Node565	Node239	2673880bps	37	40288us	76													
+Node565	Node240	1659980bps	60	32511us	48													
+Node563	Node239	1313250bps	76	52260us	38													
+Node563	Node240	1390463bps	71	47075us	40													
+Node239	Node240	15587376bps	6	9160us	443													
+Node239	Node515	1499982bps	66	37674us	43													
+Node239	Node567	2329984bps	42	37154us	67													
+Node564	Node318	1033841bps	96	66774us	30													
+Node564	Node319	2036494bps	49	46840us	58													
+Node568	Node318	1392975bps	71	48157us	40													
+Node568	Node319	2536591bps	39	41636us	73													
+Node178	Node30	93665064bps	1	6540us	2661													
+Node178	Node31	79605516bps	1	5800us	2262													
+Node178	Node35	47268011bps	2	7708us	1343													
+Node178	Node36	46790635bps	2	9471us	1330													
+Node179	Node320	14698688bps	6	6165us	418													
+Node179	Node321	19357147bps	5	6187us	550													
+Node179	Node322	18061559bps	5	7913us	514													
+Node179	Node323	19443608bps	5	8272us	553													
+Node180	Node316	15995610bps	6	5982us	455													
+Node180	Node173	53000680bps	1	8888us	1506													
+Node180	Node175	40699288bps	2	9660us	1157													
+Node180	Node317	11654579bps	8	7022us	332													
+Node180	Node220	14286459bps	6	7714us	406													
+Node180	Node176	88545329bps	1	9671us	2516													
+Node569	Node237	1561230bps	64	52444us	45													
+Node569	Node238	1783932bps	56	27619us	51													
+Node569	Node241	2773778bps	36	32960us	79													
+Node181	Node30	81660386bps	1	6044us	2320													
+Node181	Node31	53845638bps	1	7918us	1530													
+Node181	Node35	45937091bps	2	8283us	1306													
+Node181	Node36	40399620bps	2	7023us	1148													
+Node38	Node41	77650750bps	1	9422us	2206													
+Node38	Node223	19802254bps	5	5539us	563													
+Node38	Node227	14006332bps	7	8172us	398													
+Node182	Node316	14253640bps	7	7783us	405													
+Node182	Node173	60539758bps	1	8316us	1720													
+Node182	Node175	52826435bps	1	5146us	1501													
+Node182	Node317	14176773bps	7	8523us	403													
+Node182	Node220	13921873bps	7	8652us	396													
+Node182	Node176	48975892bps	2	6709us	1392													
+Node324	Node91	18612644bps	5	8465us	529													
+Node324	Node89	12153271bps	8	6177us	346													
+Node324	Node90	18907666bps	5	7894us	538													
+Node324	Node476	1110328bps	90	11479us	32													
+Node570	Node310	2718623bps	36	21628us	78													
+Node571	Node310	1112210bps	89	22896us	32													
+Node572	Node310	1611379bps	62	20966us	46													
+Node573	Node310	1275207bps	78	29813us	37													
+Node575	Node310	1006817bps	99	14908us	29													
+Node515	Node310	1955511bps	51	57295us	56													
+Node310	Node576	1328884bps	75	37765us	38													
+Node183	Node320	14117335bps	7	5617us	402													
+Node183	Node321	14511251bps	6	7819us	413													
+Node183	Node322	19328230bps	5	5483us	550													
+Node183	Node323	19866204bps	5	5020us	565													
+Node574	Node316	1815441bps	55	49746us	52													
+Node574	Node317	2047783bps	48	62719us	59													
+Node185	Node320	10235537bps	9	7247us	291													
+Node185	Node321	11505181bps	8	6057us	327													
+Node185	Node322	16190646bps	6	7910us	460													
+Node185	Node323	16877407bps	5	9318us	480													
+Node186	Node320	13891101bps	7	7074us	395													
+Node186	Node321	17845614bps	5	9751us	507													
+Node186	Node322	15933597bps	6	9089us	453													
+Node186	Node323	17742669bps	5	8330us	505													
+Node187	Node316	17592268bps	5	6389us	500													
+Node187	Node173	62223511bps	1	6540us	1768													
+Node187	Node175	70791936bps	1	8604us	2012													
+Node187	Node317	10149609bps	9	7204us	289													
+Node187	Node220	18799035bps	5	9652us	535													
+Node187	Node176	83948389bps	1	7903us	2385													
+Node577	Node320	2698202bps	37	22296us	77													
+Node577	Node321	1836177bps	54	65851us	53													
+Node184	Node320	17435758bps	5	5278us	496													
+Node184	Node321	19844848bps	5	7362us	564													
+Node184	Node322	12042789bps	8	6131us	343													
+Node184	Node323	15648596bps	6	8400us	445													
+Node578	Node320	1833752bps	54	26254us	53													
+Node578	Node321	2374398bps	42	42439us	68													
+Node188	Node320	10456135bps	9	9082us	298													
+Node188	Node321	19442180bps	5	7181us	553													
+Node188	Node322	16791070bps	5	8379us	478													
+Node188	Node323	15959006bps	6	6828us	454													
+Node579	Node320	1532803bps	65	52285us	44													
+Node579	Node321	2866227bps	34	17832us	82													
+Node189	Node320	10198230bps	9	6499us	290													
+Node189	Node321	11257016bps	8	7672us	320													
+Node189	Node322	11925110bps	8	8329us	339													
+Node189	Node323	14618721bps	6	7270us	416													
+Node191	Node320	12606639bps	7	6690us	359													
+Node191	Node321	19464388bps	5	5391us	553													
+Node191	Node322	13404870bps	7	9467us	381													
+Node191	Node323	11071539bps	9	6379us	315													
+Node190	Node320	19631625bps	5	6699us	558													
+Node190	Node321	13699510bps	7	5677us	390													
+Node190	Node322	16659194bps	6	8760us	474													
+Node190	Node323	17670986bps	5	5573us	503													
+Node193	Node320	10335339bps	9	9643us	294													
+Node193	Node321	16302156bps	6	7692us	464													
+Node193	Node322	19909655bps	5	6470us	566													
+Node193	Node323	19885713bps	5	6917us	565													
+Node194	Node320	19302528bps	5	6487us	549													
+Node194	Node321	10121183bps	9	9154us	288													
+Node194	Node322	13003528bps	7	8238us	370													
+Node194	Node323	18356737bps	5	8896us	522													
+Node580	Node320	2672377bps	37	19694us	76													
+Node580	Node321	1996420bps	50	18439us	57													
+Node192	Node320	10743494bps	9	7410us	306													
+Node192	Node321	16939402bps	5	8105us	482													
+Node192	Node322	15128516bps	6	9503us	430													
+Node192	Node323	18783401bps	5	5137us	534													
+Node581	Node320	2665039bps	37	21480us	76													
+Node581	Node321	1248060bps	80	43449us	36													
+Node195	Node320	11608418bps	8	5066us	330													
+Node195	Node321	15401135bps	6	6514us	438													
+Node195	Node322	19949639bps	5	7251us	567													
+Node195	Node323	14110981bps	7	8945us	401													
+Node582	Node320	2784018bps	35	17924us	80													
+Node582	Node321	1155765bps	86	29064us	33													
+Node196	Node320	11726997bps	8	8211us	334													
+Node196	Node321	11415139bps	8	8246us	325													
+Node196	Node322	14459338bps	6	8670us	411													
+Node196	Node323	17824391bps	5	9162us	507													
+Node198	Node316	11120452bps	8	5095us	316													
+Node198	Node173	61001823bps	1	8960us	1734													
+Node198	Node175	87039107bps	1	8529us	2473													
+Node198	Node317	18898727bps	5	5192us	537													
+Node198	Node220	13737961bps	7	5443us	391													
+Node198	Node176	50584201bps	1	6659us	1438													
+Node197	Node316	11526228bps	8	7360us	328													
+Node197	Node173	85203466bps	1	6023us	2421													
+Node197	Node175	92375612bps	1	7193us	2625													
+Node197	Node317	19516117bps	5	5173us	555													
+Node197	Node220	15756733bps	6	5439us	448													
+Node197	Node176	67217844bps	1	6831us	1910													
+Node583	Node320	2348953bps	42	36000us	67													
+Node583	Node321	1492328bps	67	54060us	43													
+Node584	Node322	1719438bps	58	10287us	49													
+Node584	Node323	2223405bps	44	22422us	64													
+Node305	Node316	19100716bps	5	6273us	543													
+Node305	Node173	18217639bps	5	7642us	518													
+Node305	Node175	13318926bps	7	8695us	379													
+Node305	Node317	10976586bps	9	8923us	312													
+Node305	Node220	10771770bps	9	7946us	307													
+Node305	Node176	15433957bps	6	9045us	439													
+Node305	Node585	2238154bps	44	35267us	64													
+Node325	Node316	15191416bps	6	6986us	432													
+Node325	Node173	13645672bps	7	9453us	388													
+Node325	Node175	15132802bps	6	8272us	430													
+Node325	Node317	19261450bps	5	7117us	548													
+Node325	Node176	15187315bps	6	8011us	432													
+Node325	Node585	1497900bps	66	56676us	43													
+Node320	Node322	10363949bps	9	7255us	295													
+Node320	Node89	12541942bps	7	9362us	357													
+Node320	Node90	16253962bps	6	8292us	462													
+Node320	Node586	1869794bps	53	59948us	54													
+Node320	Node199	17850854bps	5	8769us	508													
+Node320	Node200	18258077bps	5	9335us	519													
+Node321	Node104	11331298bps	8	8229us	322													
+Node321	Node108	15753815bps	6	5816us	448													
+Node321	Node107	18057259bps	5	8934us	513													
+Node321	Node586	2873090bps	34	41478us	82													
+Node321	Node199	10640859bps	9	6614us	303													
+Node321	Node92	11361158bps	8	7957us	323													
+Node321	Node93	10985457bps	9	5514us	313													
+Node321	Node202	11833735bps	8	5973us	337													
+Node321	Node200	14373473bps	6	8927us	409													
+Node321	Node203	18602203bps	5	8059us	529													
+Node322	Node91	16339862bps	6	6602us	465													
+Node322	Node108	19782366bps	5	7916us	562													
+Node322	Node199	14921255bps	6	7033us	424													
+Node322	Node92	18002356bps	5	5243us	512													
+Node322	Node93	11227099bps	8	8161us	319													
+Node322	Node202	16477557bps	6	7831us	469													
+Node322	Node200	19779882bps	5	7855us	562													
+Node323	Node91	18397716bps	5	7751us	523													
+Node323	Node89	18299416bps	5	5841us	520													
+Node323	Node90	14452081bps	6	6058us	411													
+Node323	Node104	18025439bps	5	7217us	513													
+Node323	Node108	12732931bps	7	8548us	362													
+Node323	Node107	15736004bps	6	6341us	448													
+Node323	Node199	14302029bps	6	5656us	407													
+Node323	Node202	15666535bps	6	9660us	446													
+Node323	Node200	17115043bps	5	9602us	487													
+Node91	Node175	49072981bps	2	9724us	1395													
+Node91	Node220	12635364bps	7	5088us	359													
+Node91	Node201	88479015bps	1	7671us	2514													
+Node91	Node44	97096434bps	1	9323us	2759													
+Node89	Node173	43784397bps	2	9851us	1244													
+Node89	Node176	52107148bps	1	5999us	1481													
+Node89	Node201	87399197bps	1	8616us	2483													
+Node89	Node44	54014142bps	1	5225us	1535													
+Node90	Node173	55978562bps	1	9754us	1591													
+Node90	Node176	64716459bps	1	8963us	1839													
+Node90	Node201	62279052bps	1	9163us	1770													
+Node90	Node46	95399769bps	1	9112us	2711													
+Node90	Node44	53050402bps	1	6671us	1508													
+Node104	Node316	11584875bps	8	7140us	330													
+Node104	Node176	72553990bps	1	9959us	2062													
+Node104	Node201	69542485bps	1	5546us	1976													
+Node104	Node125	50886885bps	1	8387us	1446													
+Node108	Node316	15837717bps	6	9752us	450													
+Node108	Node176	40250092bps	2	7650us	1144													
+Node108	Node125	54679927bps	1	9986us	1554													
+Node108	Node97	58130855bps	1	9956us	1652													
+Node107	Node316	10680610bps	9	6195us	304													
+Node107	Node173	75221447bps	1	9553us	2137													
+Node107	Node175	98951279bps	1	5044us	2812													
+Node107	Node317	12021358bps	8	6991us	342													
+Node107	Node220	17272794bps	5	5142us	491													
+Node107	Node176	74514348bps	1	6212us	2117													
+Node107	Node125	86217432bps	1	6409us	2450													
+Node107	Node97	66548098bps	1	9632us	1891													
+Node316	Node92	17097354bps	5	5479us	486													
+Node316	Node93	11575663bps	8	7356us	329													
+Node316	Node202	14126689bps	7	5634us	402													
+Node316	Node204	12520587bps	7	6132us	356													
+Node316	Node127	18880860bps	5	9145us	537													
+Node173	Node93	51087467bps	1	6937us	1452													
+Node173	Node204	95325512bps	1	9870us	2709													
+Node173	Node127	68432074bps	1	7419us	1945													
+Node175	Node93	85837153bps	1	6770us	2439													
+Node175	Node202	95410817bps	1	5962us	2711													
+Node175	Node204	64074603bps	1	8037us	1821													
+Node317	Node92	14652179bps	6	7169us	417													
+Node317	Node93	19600302bps	5	9105us	557													
+Node317	Node204	10938206bps	9	5279us	311													
+Node220	Node93	11734556bps	8	6611us	334													
+Node220	Node204	18037490bps	5	8534us	513													
+Node176	Node93	40705036bps	2	5254us	1157													
+Node176	Node204	82288187bps	1	9646us	2338													
+Node201	Node93	78026504bps	1	8898us	2217													
+Node201	Node202	71696579bps	1	8858us	2037													
+Node199	Node93	41142024bps	2	7710us	1169													
+Node92	Node203	91991949bps	1	8741us	2614													
+Node93	Node203	40855591bps	2	7574us	1161													
+Node587	Node318	1890643bps	52	52270us	54													
+Node587	Node319	2433055bps	41	50990us	70													
+Node205	Node208	78759626bps	1	7725us	2238													
+Node205	Node308	13064917bps	7	5991us	372													
+Node205	Node307	17936019bps	5	5013us	510													
+Node205	Node117	75990370bps	1	5327us	2159													
+Node205	Node118	96076952bps	1	8950us	2730													
+Node206	Node308	17144644bps	5	5254us	488													
+Node206	Node307	11111253bps	8	5053us	316													
+Node206	Node117	73402478bps	1	7024us	2086													
+Node206	Node118	77264790bps	1	6748us	2196													
+Node207	Node308	16820808bps	5	8953us	478													
+Node207	Node307	17885782bps	5	7360us	509													
+Node207	Node117	46962377bps	2	9573us	1335													
+Node207	Node118	53843012bps	1	6780us	1530													
+Node209	Node295	14230881bps	7	7730us	405													
+Node209	Node264	10873065bps	9	8417us	309													
+Node209	Node265	11697718bps	8	8237us	333													
+Node209	Node266	12782943bps	7	8539us	364													
+Node210	Node208	82527934bps	1	7114us	2345													
+Node210	Node308	18152897bps	5	9275us	516													
+Node210	Node307	19607788bps	5	7190us	558													
+Node210	Node117	81429531bps	1	7801us	2314													
+Node210	Node118	50377927bps	1	5167us	1432													
+Node588	Node308	1435286bps	69	12543us	41													
+Node588	Node307	1560696bps	64	69287us	45													
+Node211	Node208	54602688bps	1	7573us	1552													
+Node211	Node308	15209675bps	6	8866us	433													
+Node211	Node307	14121686bps	7	8496us	402													
+Node211	Node117	66848714bps	1	6556us	1900													
+Node211	Node118	40325132bps	2	9296us	1146													
+Node208	Node212	61609952bps	1	8257us	1751													
+Node208	Node213	89345537bps	1	7948us	2539													
+Node208	Node308	11874742bps	8	5252us	338													
+Node208	Node307	11740456bps	8	8363us	334													
+Node208	Node117	54130976bps	1	6866us	1538													
+Node208	Node118	56915977bps	1	7567us	1617													
+Node212	Node308	17629422bps	5	8638us	501													
+Node212	Node307	16531661bps	6	8542us	470													
+Node212	Node95	56025165bps	1	5724us	1592													
+Node213	Node308	18654670bps	5	7560us	530													
+Node213	Node307	17973317bps	5	7338us	511													
+Node213	Node117	48775446bps	2	6438us	1386													
+Node213	Node118	88137243bps	1	8699us	2504													
+Node155	Node295	12748998bps	7	7583us	363													
+Node155	Node264	19460164bps	5	5637us	553													
+Node155	Node265	18966299bps	5	5629us	539													
+Node155	Node266	18851814bps	5	7622us	536													
+Node153	Node295	13713996bps	7	8626us	390													
+Node153	Node264	12184276bps	8	8149us	347													
+Node153	Node265	16005766bps	6	5560us	455													
+Node153	Node266	18880812bps	5	9649us	537													
+Node154	Node308	16316375bps	6	5139us	464													
+Node154	Node307	17334498bps	5	6439us	493													
+Node154	Node117	65665266bps	1	6117us	1866													
+Node154	Node118	82257535bps	1	5231us	2337													
+Node214	Node295	12479660bps	8	7847us	355													
+Node214	Node264	18062041bps	5	9610us	514													
+Node214	Node265	15520642bps	6	5106us	441													
+Node214	Node266	14604609bps	6	8646us	415													
+Node589	Node295	2170165bps	46	31042us	62													
+Node308	Node45	13094875bps	7	9392us	373													
+Node308	Node261	15697202bps	6	5988us	446													
+Node308	Node203	11349544bps	8	5986us	323													
+Node308	Node94	15010056bps	6	7421us	427													
+Node308	Node95	12994131bps	7	6293us	370													
+Node308	Node96	17999309bps	5	9030us	512													
+Node307	Node46	14155483bps	7	7127us	403													
+Node307	Node44	15704631bps	6	5314us	447													
+Node307	Node261	15443786bps	6	6269us	439													
+Node307	Node267	10285448bps	9	9013us	293													
+Node307	Node94	16637991bps	6	5303us	473													
+Node307	Node95	18328801bps	5	8635us	521													
+Node307	Node96	14418582bps	6	8424us	410													
+Node117	Node46	67875361bps	1	8571us	1929													
+Node117	Node44	67335482bps	1	9981us	1913													
+Node117	Node203	89577937bps	1	7236us	2545													
+Node117	Node94	69198812bps	1	5603us	1966													
+Node117	Node95	97737008bps	1	7328us	2777													
+Node118	Node261	14406276bps	6	6752us	410													
+Node118	Node267	14654046bps	6	8430us	417													
+Node118	Node94	89211323bps	1	6722us	2535													
+Node118	Node95	70073745bps	1	9121us	1991													
+Node118	Node96	44534513bps	2	7492us	1266													
+Node46	Node261	13628351bps	7	8593us	388													
+Node46	Node265	17763946bps	5	5341us	505													
+Node46	Node266	14061246bps	7	6319us	400													
+Node46	Node226	15564288bps	6	5735us	443													
+Node46	Node164	73878076bps	1	8111us	2099													
+Node44	Node261	16557092bps	6	7321us	471													
+Node44	Node265	10546726bps	9	7199us	300													
+Node44	Node226	12677350bps	7	8258us	361													
+Node44	Node164	61238753bps	1	9939us	1740													
+Node44	Node223	13358622bps	7	5356us	380													
+Node45	Node261	11398886bps	8	9912us	324													
+Node45	Node267	10223873bps	9	9274us	291													
+Node45	Node226	17281000bps	5	6607us	491													
+Node261	Node295	19118533bps	5	7995us	544													
+Node261	Node264	11520243bps	8	5530us	328													
+Node267	Node295	17825236bps	5	6212us	507													
+Node267	Node264	12116565bps	8	9594us	345													
+Node267	Node266	15410823bps	6	5118us	438													
+Node295	Node203	14515483bps	6	7706us	413													
+Node295	Node94	19307695bps	5	5455us	549													
+Node295	Node95	15300983bps	6	6417us	435													
+Node295	Node96	15984090bps	6	6856us	455													
+Node295	Node216	15644992bps	6	5621us	445													
+Node264	Node203	17146279bps	5	8384us	488													
+Node264	Node94	15203348bps	6	8924us	432													
+Node264	Node216	17801074bps	5	7990us	506													
+Node265	Node94	17242769bps	5	7267us	490													
+Node265	Node95	12821022bps	7	7368us	365													
+Node265	Node216	15944748bps	6	9720us	453													
+Node266	Node94	13425013bps	7	7741us	382													
+Node266	Node95	14917009bps	6	6510us	424													
+Node266	Node96	18351747bps	5	5986us	522													
+Node266	Node216	13878431bps	7	5542us	395													
+Node203	Node94	93822698bps	1	6931us	2666													
+Node203	Node95	44167874bps	2	7842us	1255													
+Node215	Node30	57294883bps	1	6703us	1628													
+Node215	Node31	71658813bps	1	8515us	2036													
+Node215	Node35	72952171bps	1	7845us	2073													
+Node215	Node36	57401462bps	1	8315us	1631													
+Node593	Node318	2424776bps	41	11117us	69													
+Node593	Node319	1075524bps	92	62082us	31													
+Node592	Node318	1462958bps	68	41219us	42													
+Node592	Node319	1996376bps	50	11644us	57													
+Node590	Node318	1901599bps	52	60052us	55													
+Node590	Node319	1848585bps	54	28113us	53													
+Node594	Node318	2444239bps	40	51051us	70													
+Node594	Node319	1042046bps	95	57491us	30													
+Node595	Node318	1403735bps	71	60125us	40													
+Node595	Node319	2220849bps	45	11889us	64													
+Node591	Node318	1613120bps	61	29415us	46													
+Node591	Node319	1234882bps	80	17450us	36													
+Node596	Node318	2704810bps	36	50493us	77													
+Node596	Node319	2245950bps	44	48189us	64													
+Node597	Node318	1293271bps	77	57649us	37													
+Node597	Node319	1207523bps	82	11977us	35													
+Node599	Node318	2137103bps	46	58744us	61													
+Node599	Node319	2207551bps	45	21981us	63													
+Node598	Node318	1491345bps	67	26221us	43													
+Node598	Node319	2559249bps	39	10989us	73													
+Node318	Node125	16045883bps	6	7783us	456													
+Node318	Node97	15239614bps	6	8444us	433													
+Node318	Node288	10430073bps	9	9508us	297													
+Node318	Node287	17432790bps	5	9891us	496													
+Node318	Node602	1645005bps	60	11231us	47													
+Node319	Node125	16888582bps	5	8653us	480													
+Node319	Node97	11846112bps	8	9293us	337													
+Node319	Node288	18157406bps	5	7070us	516													
+Node319	Node287	13549259bps	7	7012us	385													
+Node319	Node602	2647855bps	37	47202us	76													
+Node125	Node287	10966347bps	9	6628us	312													
+Node97	Node287	13020659bps	7	6825us	370													
+Node288	Node287	13938946bps	7	9183us	396													
+Node601	Node237	1555329bps	64	30760us	45													
+Node601	Node238	1713555bps	58	23802us	49													
+Node601	Node241	2326678bps	42	26894us	67													
+Node600	Node237	1393741bps	71	51861us	40													
+Node600	Node238	1570504bps	63	18455us	45													
+Node600	Node241	2537596bps	39	21785us	73													
+Node603	Node237	1518014bps	65	30887us	44													
+Node603	Node238	1458662bps	68	66305us	42													
+Node603	Node241	1924698bps	51	55242us	55													
+Node217	Node30	40244493bps	2	6180us	1144													
+Node217	Node31	86513696bps	1	9364us	2458													
+Node217	Node35	68639011bps	1	9684us	1950													
+Node217	Node36	72019588bps	1	7947us	2047													
+Node604	Node237	2578208bps	38	63278us	74													
+Node604	Node238	1598075bps	62	37406us	46													
+Node604	Node241	1854650bps	53	61975us	53													
+Node605	Node326	2614244bps	38	63893us	75													
+Node605	Node237	2243913bps	44	31117us	64													
+Node605	Node241	2994258bps	33	23306us	86													
+Node326	Node237	11102305bps	9	7421us	316													
+Node326	Node238	18421384bps	5	9972us	524													
+Node326	Node241	10394994bps	9	9446us	296													
+Node610	Node237	2646047bps	37	63085us	76													
+Node609	Node237	1285821bps	77	63894us	37													
+Node609	Node238	1093073bps	91	30260us	32													
+Node609	Node241	2466373bps	40	58155us	71													
+Node608	Node237	2372431bps	42	64666us	68													
+Node606	Node237	1465321bps	68	63282us	42													
+Node606	Node238	1197877bps	83	57755us	35													
+Node606	Node241	2297062bps	43	17413us	66													
+Node607	Node237	2610321bps	38	14410us	75													
+Node611	Node237	1583231bps	63	42521us	45													
+Node611	Node238	1596377bps	62	38965us	46													
+Node611	Node241	1113787bps	89	17633us	32													
+Node612	Node237	2150799bps	46	40092us	62													
+Node613	Node237	2636545bps	37	18745us	75													
+Node613	Node238	1656554bps	60	17080us	48													
+Node613	Node241	2676365bps	37	18128us	77													
+Node616	Node237	2207681bps	45	32104us	63													
+Node614	Node237	2550120bps	39	34352us	73													
+Node614	Node238	2789779bps	35	57493us	80													
+Node614	Node241	1191880bps	83	66510us	34													
+Node218	Node30	51115081bps	1	8080us	1453													
+Node218	Node31	73988754bps	1	5758us	2102													
+Node218	Node35	55829263bps	1	7357us	1587													
+Node218	Node36	81426132bps	1	6247us	2314													
+Node615	Node314	1972900bps	50	65454us	57													
+Node517	Node237	1484226bps	67	34811us	43													
+Node523	Node238	2032038bps	49	54978us	58													
+Node523	Node241	1800652bps	55	68491us	52													
+Node314	Node237	12150974bps	8	5433us	346													
+Node314	Node241	15292289bps	6	8957us	435													
+Node311	Node237	13752842bps	7	8580us	391													
+Node311	Node238	10725597bps	9	5178us	305													
+Node311	Node241	15799256bps	6	7426us	449													
+Node521	Node237	2101950bps	47	47056us	60													
+Node313	Node238	16685639bps	5	5016us	475													
+Node313	Node241	19265501bps	5	7170us	548													
+Node339	Node223	2874823bps	34	21355us	82													
+Node339	Node224	2701872bps	37	16503us	77													
+Node617	Node237	1308022bps	76	24374us	38													
+Node617	Node238	1909253bps	52	35497us	55													
+Node617	Node241	2768029bps	36	35943us	79													
+Node24	Node30	73163253bps	1	6824us	2079													
+Node24	Node31	94559160bps	1	9233us	2687													
+Node24	Node35	63651837bps	1	8657us	1809													
+Node24	Node36	49637471bps	2	5839us	1411													
+Node219	Node30	61946456bps	1	6626us	1760													
+Node219	Node31	59938677bps	1	5219us	1703													
+Node219	Node35	96117090bps	1	9667us	2731													
+Node219	Node36	50636909bps	1	9097us	1439													
+Node237	Node164	18591659bps	5	6819us	529													
+Node237	Node41	17067771bps	5	6073us	485													
+Node237	Node223	15747290bps	6	8963us	448													
+Node237	Node619	2767563bps	36	48085us	79													
+Node237	Node620	1976610bps	50	36367us	57													
+Node237	Node621	2820087bps	35	17337us	81													
+Node237	Node224	13997698bps	7	9313us	398													
+Node237	Node232	16054118bps	6	6520us	457													
+Node238	Node226	14317240bps	6	9062us	407													
+Node238	Node227	17172252bps	5	6635us	488													
+Node238	Node618	2161977bps	46	48490us	62													
+Node238	Node620	1076182bps	92	11674us	31													
+Node238	Node621	2192492bps	45	44906us	63													
+Node238	Node232	11166854bps	8	6562us	318													
+Node241	Node226	14688626bps	6	6097us	418													
+Node241	Node223	13675144bps	7	8974us	389													
+Node241	Node227	17413098bps	5	9707us	495													
+Node241	Node622	2631484bps	38	65622us	75													
+Node241	Node620	1459368bps	68	23968us	42													
+Node241	Node621	1912670bps	52	12347us	55													
+Node241	Node232	16569665bps	6	5046us	471													
+Node226	Node227	18368837bps	5	5381us	522													
+Node226	Node30	18674875bps	5	9881us	531													
+Node226	Node31	16874436bps	5	8361us	480													
+Node226	Node36	16982939bps	5	6294us	483													
+Node164	Node223	19821908bps	5	6688us	564													
+Node41	Node30	47479732bps	2	6944us	1349													
+Node223	Node31	11424523bps	8	5257us	325													
+Node223	Node36	14423262bps	6	5668us	410													
+Node223	Node622	2432127bps	41	56783us	70													
+Node227	Node35	15214218bps	6	8975us	433													
+Node30	Node224	13137782bps	7	6071us	374													
+Node30	Node232	14059654bps	7	7802us	400													
+Node35	Node224	18842676bps	5	9108us	536													
+Node35	Node232	17239649bps	5	5233us	490													
+Node0	Node124	61053433bps	1	7184us	1735													
+Node95	Node23	91415227bps	1	8827us	2598													
+Node23	Node215	88666516bps	1	8565us	2519													
+Node29	Node25	49375011bps	2	6410us	1403													
+Node25	Node101	86234804bps	1	9757us	2450													
+Node103	Node40	48153796bps	2	8728us	1369													
+Node40	Node42	63294998bps	1	8171us	1799													
+Node42	Node45	79473714bps	1	8343us	2258													
+Node45	Node47	99579672bps	1	7357us	2829													
+Node47	Node48	95628067bps	1	7925us	2717													
+Node48	Node65	45594936bps	2	9605us	1296													
+Node65	Node77	77887666bps	1	8303us	2213													
+Node77	Node98	92509389bps	1	5778us	2629													
+Node98	Node105	45614363bps	2	7828us	1296													
+Node105	Node109	81515980bps	1	8201us	2316													
+Node109	Node114	54299829bps	1	7231us	1543													
+Node114	Node116	76971591bps	1	6283us	2187													
+Node116	Node133	82504497bps	1	7357us	2344													
+Node133	Node146	97937993bps	1	5187us	2783													
+Node146	Node147	77480279bps	1	6522us	2202													
+Node147	Node153	66459468bps	1	7866us	1889													
+Node153	Node155	53710673bps	1	8125us	1526													
+Node155	Node165	58857999bps	1	5855us	1673													
+Node165	Node166	77745900bps	1	9683us	2209													
+Node166	Node167	46198944bps	2	8611us	1313													
+Node167	Node168	99058796bps	1	8368us	2815													
+Node168	Node169	73680888bps	1	9834us	2094													
+Node169	Node170	52287670bps	1	8374us	1486													
+Node170	Node174	58854768bps	1	6076us	1673													
+Node174	Node179	64882893bps	1	7635us	1844													
+Node179	Node183	93058567bps	1	6166us	2644													
+Node183	Node184	85235121bps	1	9713us	2422													
+Node184	Node185	72517674bps	1	8798us	2061													
+Node185	Node186	65149138bps	1	5327us	1851													
+Node186	Node188	61812868bps	1	6762us	1757													
+Node188	Node189	81085181bps	1	8772us	2304													
+Node189	Node190	96158791bps	1	7583us	2732													
+Node190	Node191	94150918bps	1	6201us	2675													
+Node191	Node192	47297393bps	2	7342us	1344													
+Node192	Node193	48147152bps	2	8362us	1368													
+Node193	Node194	42692201bps	2	6322us	1213													
+Node194	Node195	50246159bps	1	9974us	1428													
+Node195	Node196	43075118bps	2	9927us	1224													
+Node196	Node200	99366164bps	1	9048us	2823													
+Node200	Node209	60550956bps	1	8996us	1721													
+Node209	Node214	50578794bps	1	6957us	1437													
+Node214	Node216	90388944bps	1	9265us	2568													
